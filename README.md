@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [打赏/Donate](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 ### 联系方式/Contact Me
 - **Telegram：** @lxgwtg
-- **微信公众号：** 霞鹜 *（ID: lxgwshare）*
-- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
-- **微博：** [@孤鹜先森](https://weibo.com/6624339726)
+- **微信公众号/Official Wechat Account：** 霞鹜 *（ID: lxgwshare）*
+- **酷安/CoolApk：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
+- **微博/Sina Weibo：** [@孤鹜先森](https://weibo.com/6624339726)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
