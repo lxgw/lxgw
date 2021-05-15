@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 [个人博客/Blog](https://lxgw.github.io)  
+[个人网盘/Ys168](http://lxgw.ys168.com)  
 [打赏/Donate](https://github.com/lxgw/lxgw/blob/main/Donate.md)
+### 联系方式
+- **微信公众号：** 霞鹜 *（ID: lxgwshare）*
+- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
+- **微博：** [@孤鹜先森](https://weibo.com/6624339726)
+- **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
