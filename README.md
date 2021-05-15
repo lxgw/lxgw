@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [个人博客/Blog](https://lxgw.github.io)  
 [个人网盘/Ys168](http://lxgw.ys168.com)  
+[开源中文字体一览/Open-source Fonts](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)  
 [打赏/Donate](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 ### 联系方式
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
