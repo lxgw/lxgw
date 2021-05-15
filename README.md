@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[个人博客/Blog](https://lxgw.github.io)
 [打赏/Donate](https://github.com/lxgw/lxgw/blob/main/Donate.md)
