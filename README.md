@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 [![即刻](https://img.shields.io/badge/%E5%8D%B3%E5%88%BB-%40%E8%90%BD%E9%9C%9E%E5%AD%A4%E9%B9%9Clxgw-yellow)](https://okjk.co/UCFSTo)  
 [![微博](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%40%E5%AD%A4%E9%B9%9C%E5%85%88%E6%A3%AE-orange)](https://weibo.com/6624339726)  
 [![少数派](https://img.shields.io/badge/%E5%B0%91%E6%95%B0%E6%B4%BE-%40%E8%90%BD%E9%9C%9E%E5%AD%A4%E9%B9%9Clxgw-red)](https://sspai.com/u/ng008g7q)  
-[![](https://img.shields.io/badge/QQmail-lxgw1999%40qq.com-blueviolet)](mailto:lxgw1999@qq.com) [![](https://img.shields.io/badge/Gmail-calxgw2018%40gmail.com-blueviolet)](mailto:calxgw2018@gmail.com) [![](https://img.shields.io/badge/NetEase-srtong2006%40126.com-blueviolet)](mailto:srtong2006@126.com) 
+[![](https://img.shields.io/badge/QQmail-lxgw1999%40qq.com-royalblue)](mailto:lxgw1999@qq.com) [![](https://img.shields.io/badge/Gmail-calxgw2018%40gmail.com-indianred)](mailto:calxgw2018@gmail.com) [![](https://img.shields.io/badge/NetEase-srtong2006%40126.com-forestgreen)](mailto:srtong2006@126.com) 
  
