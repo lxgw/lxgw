@@ -2,4 +2,4 @@
 ID: lxgwshare  
 ![](https://github.com/lxgw/lxgw/raw/main/images/qrcode_wx.jpg)
 
-> 自 2020 年 6 月起，微信公众号不再更新和分享任何非免商非开源的版权字体资源。
+> 自 2020 年 6 月起，微信公众号不再更新和分享任何非开源的版权字体美化资源。
