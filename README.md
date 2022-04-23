@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [永硕Ｅ盘 / YsEpan](http://lxgw.ysepan.com)  
 [开源中文字体一览 / Open-source Fonts](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)  
 [打赏 / Donate](https://github.com/lxgw/lxgw/blob/main/Donate.md)
-### 联系方式/Contact Me
+### 关注方式 / Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-%40lxgwtg-blue?style=for-the-badge)](https://t.me/lxgwtg)  
 [![Telegram 频道](https://img.shields.io/badge/Telegram%20%E9%A2%91%E9%81%93-%40lxgwandroidfont-blue?style=for-the-badge)](https://t.me/lxgwandroidfont)  
 [![微信公众号](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%9C%9E%E9%B9%9C%EF%BC%88ID%3Alxgwshare%EF%BC%89-brightgreen?style=for-the-badge)](https://github.com/lxgw/lxgw/blob/main/Wechat.md)  
