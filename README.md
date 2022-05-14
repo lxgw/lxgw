@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 [![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)](#)
 [![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
-[![DELL G3](https://img.shields.io/badge/DELL%20G3-007DB8?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
+[![DELL G3](https://img.shields.io/badge/DELL%20G3-007DB8?style=flat-square&logo=dell&logoColor=ffffff)](#)
 
 ## System Environment
 
