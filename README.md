@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Devices in use
 
-[![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)](#)
+[![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![DELL G3](https://img.shields.io/badge/DELL%20G3-007DB8?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 
 ## System Environment
 
+[![iOS 15](https://img.shields.io/badge/iOS%2015-000000?style=flat-square&logo=apple&logoColor=ffffff)](#)
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![iOS 15](https://img.shields.io/badge/iOS%2015-000000?style=flat-square&logo=ios&logoColor=ffffff)](#)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 
 ### 电子邮箱 / E-Mail
