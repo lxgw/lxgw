@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 ## System Environment
 
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
+[![iOS 15](https://img.shields.io/badge/iOS%2015-000000?style=flat-square&logo=ios&logoColor=ffffff)](#)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 
 ### 电子邮箱 / E-Mail
 [![](https://img.shields.io/badge/QQmail-lxgw1999%40qq.com-royalblue?style=flat-square)](mailto:lxgw1999@qq.com)  
