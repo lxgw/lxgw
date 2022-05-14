@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 
 ### 电子邮箱 / E-Mail
-[![](https://img.shields.io/badge/QQmail-lxgw1999%40qq.com-royalblue?style=flat-square)](mailto:lxgw1999@qq.com)  
-[![](https://img.shields.io/badge/Gmail-calxgw2018%40gmail.com-indianred?style=flat-square)](mailto:calxgw2018@gmail.com)  
+[![](https://img.shields.io/badge/QQmail-lxgw1999%40qq.com-royalblue?style=flat-square)](mailto:lxgw1999@qq.com)
+[![](https://img.shields.io/badge/Gmail-calxgw2018%40gmail.com-indianred?style=flat-square)](mailto:calxgw2018@gmail.com)
 [![](https://img.shields.io/badge/NetEase-srtong2006%40126.com-forestgreen?style=flat-square)](mailto:srtong2006@126.com) 
- 
