@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
+特别推荐：[霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [GB](https://github.com/lxgw/LxgwWenKaiGB) | [TC](https://github.com/lxgw/LxgwWenKaiTC) | [Bright](https://github.com/lxgw/LxgwBright)  
+
 [个人博客 / Blog](https://lxgw.github.io)  `试行/Beta`  
 [永硕Ｅ盘 / YsEpan](http://lxgw.ysepan.com)  
 [开源中文字体一览 / Open-source Fonts](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)   
-特别推荐：[霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [GB](https://github.com/lxgw/LxgwWenKaiGB) | [TC](https://github.com/lxgw/LxgwWenKaiTC) | [Bright](https://github.com/lxgw/LxgwBright)  
 [打赏 / Donate](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 ### 关注方式 / Follow Me
 [![Telegram](https://img.shields.io/badge/lxgwtg-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA0pJREFUWEftlluIlWUYhZ8lhIR2EAexIDCDCkG6iSKiA9kBxDCFogOIRAXVEJQdCDrMXARDRSZRYF4YSNlZ0g4oaAUZFlniRRcl0YRCIRMV5EU3S9bwbflmz9579rY9eDMv/Bf/v7/vXetd72mLU2w6xfjMEJhWBWwvAm4FVgHnAC9JeqVO+7QQsL28AAd8zgRAaQJm3wjYngvcVZ6rCuhR4B3geeC3fFO/Cdi+uAI+vwDvBd4C3pB0zPbVwJfAT5Iu6ksKbF9fAZ9WnCbaNyXtqEFsPwRsAN6WdMdJE7A9H7itPNcWR78HtAD/0HBue72kh/NuezOwFnhc0gs9E7B9ZQW8sDj4rgJOrsfN9jXAE8DfjWhtHwAuAZZJ2tMVAdtnVqA3VJe2Jb+S3m+S+QzgGeA+YIukwUIo3/8pZ+dJ+qsjAduXVcDnVTK/V2T+pnl8274dGAbOAl6XFCINRa4AvgZ+kXRB890TbWh7CfAccEt16FsgwFslHWkBfCEwBKSwfgVelpRiO2G27w2p+JGU+plgNYF9wOXl18ibC+82X6giWwe8WN5/BEYkbWlB8lXgAeBJSSOdCIwBZ5eIA/5BK3Dbqf6NQKKP7U/uJX3a5nzkTxpukrSrE4FE9Ahwbjn0byGT3t1pO8UU4LqPvwIekxT1JpntBJQ2nQ0MSEqQrVOQr7YHgJXACiCRxkEsFzMDaks0g5J+7pCmtG9IjkrKYppkbXdBKcobgfR1XZhx8hFwt6Q/24GXgNKSUW2bpNU9EWgctp1V+mF1eUxSlJrSbKcjMoafkpQO616BikDAkuNGD++TlKJKypZISge0NNu7geuA5ZI+OykCBWgTcE9xkCm3pqQobdrogtEaoOyN1Mc8YKGkP/4PgTvL3I+PTLm06OfAguL0e+BZSR9XyjVW8GFJjYnaewqKAnGQaNJOacOtxVOm4KWla/4rJMaHje37gdeA7ZLSWS2t639Etj9JLisvQ5KGbZ8OPJ1JV37Lan40hQc8mFGdc/0gkH2evR6b5NR2lMloziA7CKRFM0turlPTTKRrBYqs439CJH3RKiLbSwuJzI9YywVU3+2JQDsZm7/bXgzMknRoqjvTQmAq0GlXYIZALwocB9fELTBQotVSAAAAAElFTkSuQmCC)](https://t.me/lxgwtg)
