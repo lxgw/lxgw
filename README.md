@@ -1,6 +1,6 @@
 <div align="center">
 
-[霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [国标简体 / GB](https://github.com/lxgw/LxgwWenKaiGB) | [旧字形 / TC](https://github.com/lxgw/LxgwWenKaiTC) | [Bright](https://github.com/lxgw/LxgwBright)  
+<!-- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [国标简体 / GB](https://github.com/lxgw/LxgwWenKaiGB) | [旧字形 / TC](https://github.com/lxgw/LxgwWenKaiTC) | [Bright](https://github.com/lxgw/LxgwBright)  -->
 
 ### Hi there 👋
 
