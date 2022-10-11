@@ -12,5 +12,5 @@
 - [缝合楷 / Fusion Kai](https://github.com/lxgw/FusionKai)
 - [LXGW Bright](https://github.com/lxgw/LxgwBright)
 ## 弃更归档 / No Longer Updated & Archived
-- ~~[霞鹜传承晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic)~~
+- ~~[霞鹜（传承）晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic)~~
 - ~~[霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)~~
