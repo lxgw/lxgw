@@ -1,5 +1,3 @@
-<div align="center">
-
 ## 正文字体
 - [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) | [轻便版 Lite](https://github.com/lxgw/LxgwWenKai-Lite) | [国标简体 GB](https://github.com/lxgw/LxgwWenkaiGB) | [旧字形 TC](https://github.com/lxgw/LxgwWenkaiTC) 
 - [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) | [尚智黑](https://www.maoken.com/freefonts/10610.html)
