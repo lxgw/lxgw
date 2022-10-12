@@ -1,8 +1,8 @@
 ## 正文字体 / Body Text Fonts
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai)
   - [轻便版 Lite](https://github.com/lxgw/LxgwWenKai-Lite)
-  - [国标简体 GB](https://github.com/lxgw/LxgwWenkaiGB)
   - [旧字形 TC](https://github.com/lxgw/LxgwWenkaiTC) 
+  - [国标简体 GB](https://github.com/lxgw/LxgwWenkaiGB)
 - [霞鹜新晰黑 / LXGW New XiHei](https://github.com/lxgw/LxgwNewClearGothic)
   - [尚智黑 Fasmart Gothic](https://www.maoken.com/freefonts/10610.html)
 ## 手写风字体 / Handwritten Fonts
