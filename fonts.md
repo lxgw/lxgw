@@ -16,6 +16,6 @@
 ## 海报风字体 / POP Fonts
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/lxgwmarkergothic)
 
-## ~~以下字体由于某些原因不再更新，并且项目仓库已归档~~
+## 以下字体由于某些原因不再更新，并且项目仓库已归档
 - ~~[霞鹜（传承）晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic)~~
 - ~~[霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)~~
