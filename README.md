@@ -1,5 +1,3 @@
-> 注意
-
 <div align="center">
 
 ### Hi there 👋
