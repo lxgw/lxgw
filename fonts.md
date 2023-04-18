@@ -7,8 +7,8 @@
     - [缝合楷 / Fusion Kai](https://github.com/lxgw/FusionKai)
     - [LXGW Bright](https://github.com/lxgw/LxgwBright)
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
-  - [尚智黑 Fasmart Gothic](https://www.maoken.com/freefonts/10610.html) （仅猫啃网）
-- [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) （筹划中）
+  - [尚智黑 Fasmart Gothic [maoken]](https://www.maoken.com/freefonts/10610.html)
+- [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
 
 ## 手写风字体 / Handwritten Fonts
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
