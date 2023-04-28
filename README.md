@@ -1,6 +1,6 @@
 <div align="center">
 
-[侵权协商](mailto:1137119401@qq.com)
+[侵权协商 / Infringement Negotiation](mailto:1137119401@qq.com)
 
 ### Hi there 👋
 
