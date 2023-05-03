@@ -1,8 +1,8 @@
 ## 正文字体 / Body Text Fonts
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai)
   - [轻便版 Lite](https://github.com/lxgw/LxgwWenKai-Lite)
-  - [旧字形 TC](https://github.com/lxgw/LxgwWenkaiTC) 
-  - [国标简体 GB](https://github.com/lxgw/LxgwWenkaiGB)
+  - [传承字形 TC](https://github.com/lxgw/LxgwWenkaiTC) 
+  - [国标字形 GB](https://github.com/lxgw/LxgwWenkaiGB)
   - 缝合字体 / Mixed Fonts
     - [缝合楷 / Fusion Kai](https://github.com/lxgw/FusionKai)
     - [LXGW Bright](https://github.com/lxgw/LxgwBright)
