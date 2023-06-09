@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋
+### 落霞与孤鹜齐飞，</br>秋水共长天一色。
 
 <!--
 **lxgw/lxgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)
 
-
-[个人博客 / Blog](https://lxgw.github.io)  `试行/Beta`  
+[个人博客 / Blog](https://lxgw.github.io)  
 [永硕Ｅ盘 / YsEpan](http://lxgw.ysepan.com)  
-[开源中文字体一览 / Open-source Fonts](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/) | [简表 / Brief List](https://github.com/lxgw/lxgw/blob/main/fonts.md)   
+[开源中文字体 / Open-source Fonts](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/) | [简表 / Brief List](https://github.com/lxgw/lxgw/blob/main/fonts.md)   
+[字体模块模板 / Font Magisk Module Template](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)
+[外字初步整理一览表 / ext-characters](https://github.com/lxgw/ext-characters)
 [打赏 / Donate](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 ### 关注方式 / Follow Me
 [![Telegram](https://img.shields.io/badge/lxgwtg-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA0pJREFUWEftlluIlWUYhZ8lhIR2EAexIDCDCkG6iSKiA9kBxDCFogOIRAXVEJQdCDrMXARDRSZRYF4YSNlZ0g4oaAUZFlniRRcl0YRCIRMV5EU3S9bwbflmz9579rY9eDMv/Bf/v7/vXetd72mLU2w6xfjMEJhWBWwvAm4FVgHnAC9JeqVO+7QQsL28AAd8zgRAaQJm3wjYngvcVZ6rCuhR4B3geeC3fFO/Cdi+uAI+vwDvBd4C3pB0zPbVwJfAT5Iu6ksKbF9fAZ9WnCbaNyXtqEFsPwRsAN6WdMdJE7A9H7itPNcWR78HtAD/0HBue72kh/NuezOwFnhc0gs9E7B9ZQW8sDj4rgJOrsfN9jXAE8DfjWhtHwAuAZZJ2tMVAdtnVqA3VJe2Jb+S3m+S+QzgGeA+YIukwUIo3/8pZ+dJ+qsjAduXVcDnVTK/V2T+pnl8274dGAbOAl6XFCINRa4AvgZ+kXRB890TbWh7CfAccEt16FsgwFslHWkBfCEwBKSwfgVelpRiO2G27w2p+JGU+plgNYF9wOXl18ibC+82X6giWwe8WN5/BEYkbWlB8lXgAeBJSSOdCIwBZ5eIA/5BK3Dbqf6NQKKP7U/uJX3a5nzkTxpukrSrE4FE9Ahwbjn0byGT3t1pO8UU4LqPvwIekxT1JpntBJQ2nQ0MSEqQrVOQr7YHgJXACiCRxkEsFzMDaks0g5J+7pCmtG9IjkrKYppkbXdBKcobgfR1XZhx8hFwt6Q/24GXgNKSUW2bpNU9EWgctp1V+mF1eUxSlJrSbKcjMoafkpQO616BikDAkuNGD++TlKJKypZISge0NNu7geuA5ZI+OykCBWgTcE9xkCm3pqQobdrogtEaoOyN1Mc8YKGkP/4PgTvL3I+PTLm06OfAguL0e+BZSR9XyjVW8GFJjYnaewqKAnGQaNJOacOtxVOm4KWla/4rJMaHje37gdeA7ZLSWS2t639Etj9JLisvQ5KGbZ8OPJ1JV37Lan40hQc8mFGdc/0gkH2evR6b5NR2lMloziA7CKRFM0turlPTTKRrBYqs439CJH3RKiLbSwuJzI9YywVU3+2JQDsZm7/bXgzMknRoqjvTQmAq0GlXYIZALwocB9fELTBQotVSAAAAAElFTkSuQmCC)](https://t.me/lxgwtg)
@@ -41,6 +42,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/calxgw2018-%40gmail.com-indianred?style=flat-square)](mailto:calxgw2018@gmail.com)
 [![](https://img.shields.io/badge/srtong2006-%40126.com-forestgreen?style=flat-square)](mailto:srtong2006@126.com) 
 
+<!--
+
 ### Devices in use
 
 [![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)](#)
@@ -52,3 +55,5 @@ Here are some ideas to get you started:
 [![iOS 15](https://img.shields.io/badge/15%2E2-000000?style=flat-square&logo=ios&logoColor=ffffff)](#)
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
+
+-->
