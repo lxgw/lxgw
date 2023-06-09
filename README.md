@@ -1,4 +1,5 @@
 <div align="center">
+![test image size](images/lxgw-logo.svg){:height="128px" width="128px"}
 
 ### 落霞与孤鹜齐飞，</br>秋水共长天一色。
 
