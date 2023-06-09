@@ -1,8 +1,7 @@
 <div align="center">
   
 <img src="images/lxgw-logo.svg" width = "128" height = "128" align=center />
-
-### 落霞与孤鹜齐飞，</br>秋水共长天一色。
+<big>落霞与孤鹜齐飞</br>秋水共长天一色</big>
 
 <!--
 **lxgw/lxgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
