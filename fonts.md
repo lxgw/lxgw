@@ -9,6 +9,7 @@
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
   - [尚智黑 Fasmart Gothic [maoken]](https://www.maoken.com/freefonts/10610.html)
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
+  - [铭心宋 Heart Serif [maoken]](https://www.maoken.com/freefonts/19277.html)
 
 ## 手写风字体 / Handwritten Fonts
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
