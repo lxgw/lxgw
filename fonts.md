@@ -1,10 +1,11 @@
-## 正文字体 / Body Text Fonts
+## 正文字体（「晰致尚铭」系列） / Body Text Fonts
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
   - [尚智黑 / Fasmart Gothic](https://www.maoken.com/freefonts/10610.html) [猫啃]
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
   - [铭心宋 / Heart Serif](https://www.maoken.com/freefonts/19277.html) [猫啃]
 
 > ㊟ 「尚智黑」「铭心宋」分别为「新晰黑」「新致宋」的随附字体，没有单独的项目仓库，故在本简表中以猫啃网链接列出。
+> 　 「晰致尚铭」系列字体在 [IPA Font License 1.0](https://moji.or.jp/ipafont/license/) 授权许可下发行。
 
 ## 特殊字体 / Special Fonts
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai)
