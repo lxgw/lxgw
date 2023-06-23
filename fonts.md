@@ -14,6 +14,8 @@
   - 缝合字体 / Mixed Fonts
     - [缝合楷 / Fusion Kai](https://github.com/lxgw/FusionKai)
     - [LXGW Bright](https://github.com/lxgw/LxgwBright)
+   
+> ㊟ 「霞鹜文楷」曾归类到正文字体，后发现该字体并不太适合大段文字排版，归类到正文字体有些欠妥。该字体介于手写风格字体与正文字体之间，归类为「特殊字体」。
 
 ## 手写字体 / Handwritten Fonts
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
