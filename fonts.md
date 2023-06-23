@@ -1,4 +1,4 @@
-## 正文字体（「晰致尚铭」系列） / Body Text Fonts
+## 正文字体 / Body Text Fonts（「晰致尚铭」系列）
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
   - [尚智黑 / Fasmart Gothic](https://www.maoken.com/freefonts/10610.html) [猫啃]
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
