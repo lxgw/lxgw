@@ -1,4 +1,12 @@
 ## 正文字体 / Body Text Fonts
+- [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
+  - [尚智黑 / Fasmart Gothic](https://www.maoken.com/freefonts/10610.html) [猫啃]
+- [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
+  - [铭心宋 / Heart Serif](https://www.maoken.com/freefonts/19277.html) [猫啃]
+
+> ㊟ 「尚智黑」「铭心宋」分别为「新晰黑」「新致宋」的随附字体，没有单独的项目仓库，故在本简表中以猫啃网链接列出。
+
+## 特殊字体 / Special Fonts
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai)
   - [轻便版 Lite](https://github.com/lxgw/LxgwWenKai-Lite)
   - [传承字形 TC](https://github.com/lxgw/LxgwWenkaiTC) 
@@ -6,12 +14,6 @@
   - 缝合字体 / Mixed Fonts
     - [缝合楷 / Fusion Kai](https://github.com/lxgw/FusionKai)
     - [LXGW Bright](https://github.com/lxgw/LxgwBright)
-- [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
-  - [尚智黑 / Fasmart Gothic](https://www.maoken.com/freefonts/10610.html) [猫啃]
-- [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
-  - [铭心宋 / Heart Serif](https://www.maoken.com/freefonts/19277.html) [猫啃]
-
-> ㊟ 「尚智黑」「铭心宋」分别为「新晰黑」「新致宋」的随附字体，没有单独的项目仓库，故在本简表中以猫啃网链接列出。
 
 ## 手写风字体 / Handwritten Fonts
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
