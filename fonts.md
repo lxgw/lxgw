@@ -15,11 +15,11 @@
     - [缝合楷 / Fusion Kai](https://github.com/lxgw/FusionKai)
     - [LXGW Bright](https://github.com/lxgw/LxgwBright)
 
-## 手写风字体 / Handwritten Fonts
+## 手写字体 / Handwritten Fonts
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
-## 海报风字体 / POP Fonts
+## 海报字体 / POP Fonts
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/lxgwmarkergothic)
 
 ## 以下字体由于某些原因不再更新，并且项目仓库已归档</br>The following fonts are no longer updated for some reason, and the repositories are archived.
