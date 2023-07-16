@@ -1,7 +1,7 @@
 # 点击各字体预览图片下方的链接，进入相应字体的 GitHub 页面或猫啃网页面。
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
-[GitHub 主力](https://github.com/lxgw/LxgwNeoXiHei) / [屏阅](https://github.com/lxgw/LxgwNeoXiHei-Screen) | [猫啃网](https://www.maoken.com/freefonts/8999.html)  
+[GitHub 普通](https://github.com/lxgw/LxgwNeoXiHei) / [屏阅](https://github.com/lxgw/LxgwNeoXiHei-Screen) | [猫啃网](https://www.maoken.com/freefonts/8999.html)  
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_day.png#gh-light-mode-only)
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/LxgwNeoXiHei) | [猫啃网](https://www.maoken.com/freefonts/10610.html)  
