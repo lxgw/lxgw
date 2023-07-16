@@ -1,6 +1,8 @@
 ## 正文字体 / Body Text Fonts（「晰致尚铭」系列）
+[
 ![霞鹜新晰黑](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)
+](LxgwNeoZhiSong)
   - [尚智黑 / Fasmart Gothic](https://www.maoken.com/freefonts/10610.html) [猫啃]
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
   - [铭心宋 / Heart Serif](https://www.maoken.com/freefonts/19277.html) [猫啃]
