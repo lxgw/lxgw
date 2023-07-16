@@ -1,5 +1,4 @@
 # 点击各字体预览图片下方的链接，进入相应字体的 GitHub 页面或猫啃网页面。
-## 正文字体 / Body Text Fonts（「晰致尚铭」系列）
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/LxgwNeoXiHei) | [猫啃网](https://www.maoken.com/freefonts/8999.html)  
@@ -11,20 +10,17 @@
 [GitHub](https://github.com/lxgw/LxgwNeoZhiSong) | [猫啃网](https://www.maoken.com/freefonts/18476.html)  
 ![霞鹜铭心宋 / LXGW Heart Serif](./images/fontlist/lxgwhs_day.png#gh-light-mode-only)
 ![霞鹜铭心宋 / LXGW Heart Serif](./images/fontlist/lxgwhs_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwNeoZhiSong) | [猫啃网](https://www.maoken.com/freefonts/19277.html) 
+[GitHub](https://github.com/lxgw/LxgwNeoZhiSong) | [猫啃网](https://www.maoken.com/freefonts/19277.html)  
+![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_day.png#gh-light-mode-only)
+![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_night.png#gh-dark-mode-only)  
+[GitHub (完整)](https://github.com/lxgw/LxgwWenKai) | [GitHub (轻便)](https://github.com/lxgw/LxgwWenKai-Lite) | [猫啃网](https://www.maoken.com/freefonts/9704.html)  
+![霞鹜文楷 GB / LXGW WenKai GB](./images/fontlist/lxgwwkgb_day.png#gh-light-mode-only)
+![霞鹜文楷 GB / LXGW WenKai GB](./images/fontlist/lxgwwkgb_night.png#gh-dark-mode-only)  
+[GitHub](https://github.com/lxgw/LxgwWenKaiGB) | [猫啃网](https://www.maoken.com/freefonts/16864.html)  
+![霞鹜文楷 TC / LXGW WenKai TC](./images/fontlist/lxgwwktc_day.png#gh-light-mode-only)
+![霞鹜文楷 TC / LXGW WenKai TC](./images/fontlist/lxgwwktc_night.png#gh-dark-mode-only)  
+[GitHub](https://github.com/lxgw/LxgwWenKaiTC) | [猫啃网](https://www.maoken.com/freefonts/16424.html)  
 
-## 特殊字体 / Special Fonts
-- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai)
-  - [轻便版 Lite](https://github.com/lxgw/LxgwWenKai-Lite)
-  - [传承字形 TC](https://github.com/lxgw/LxgwWenkaiTC) 
-  - [国标字形 GB](https://github.com/lxgw/LxgwWenkaiGB)
-  - 缝合字体 / Mixed Fonts
-    - [缝合楷 / Fusion Kai](https://github.com/lxgw/FusionKai)
-    - [LXGW Bright](https://github.com/lxgw/LxgwBright)
-   
-> ㊟ 「霞鹜文楷」曾归类到正文字体，后发现该字体并不太适合大段文字排版，相比之下更适合中等长度文本排版。现归类为「特殊字体」。
-
-## 手写字体 / Handwritten Fonts
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
