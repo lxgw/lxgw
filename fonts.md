@@ -36,3 +36,5 @@ GitHub [普通](https://github.com/lxgw/LxgwWenKaiGB) [融合](https://github.co
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/ablxgwzk_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/LxgwZhenKai) | [猫啃网](https://www.maoken.com/freefonts/14773.html)  
 
+<p align="center"><a href="https://moji.or.jp/ipafont/license/"><img src="https://github.com/lxgw/lxgw/blob/main/images/fontlist/ipa_link.svg" align=center></a></p>
+<p align="center"><a href="https://scripts.sil.org/ofl"><img src="https://github.com/lxgw/lxgw/blob/main/images/fontlist/ofl_link.svg" align=center></a></p>
