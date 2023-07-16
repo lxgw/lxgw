@@ -1,7 +1,7 @@
 # 点击各字体预览图片下方的链接，进入相应字体的 GitHub 页面或猫啃网页面。
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwNeoXiHei) | [猫啃网](https://www.maoken.com/freefonts/8999.html)  
+[GitHub](https://github.com/lxgw/LxgwNeoXiHei) / [屏阅](https://github.com/lxgw/LxgwNeoXiHei-Screen) | [猫啃网](https://www.maoken.com/freefonts/8999.html)  
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_day.png#gh-light-mode-only)
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/LxgwNeoXiHei) | [猫啃网](https://www.maoken.com/freefonts/10610.html)  
@@ -13,7 +13,7 @@
 [GitHub](https://github.com/lxgw/LxgwNeoZhiSong) | [猫啃网](https://www.maoken.com/freefonts/19277.html)  
 ![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_day.png#gh-light-mode-only)
 ![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_night.png#gh-dark-mode-only)  
-[GitHub (完整)](https://github.com/lxgw/LxgwWenKai) | [GitHub (轻便)](https://github.com/lxgw/LxgwWenKai-Lite) | [猫啃网](https://www.maoken.com/freefonts/9704.html)  
+[GitHub 完整](https://github.com/lxgw/LxgwWenKai) / [轻便](https://github.com/lxgw/LxgwWenKai-Lite) / [屏阅](https://github.com/lxgw/LxgwWenKai-Screen) | [猫啃网](https://www.maoken.com/freefonts/9704.html)  
 ![霞鹜文楷 GB / LXGW WenKai GB](./images/fontlist/lxgwwkgb_day.png#gh-light-mode-only)
 ![霞鹜文楷 GB / LXGW WenKai GB](./images/fontlist/lxgwwkgb_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/LxgwWenKaiGB) | [猫啃网](https://www.maoken.com/freefonts/16864.html)  
