@@ -2,19 +2,16 @@
 ## 正文字体 / Body Text Fonts（「晰致尚铭」系列）
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwNeoXiHei) | [猫啃](https://www.maoken.com/freefonts/8999.html)  
+[GitHub](https://github.com/lxgw/LxgwNeoXiHei) | [猫啃网](https://www.maoken.com/freefonts/8999.html)  
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_day.png#gh-light-mode-only)
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwNeoXiHei) | [猫啃](https://www.maoken.com/freefonts/10610.html)  
+[GitHub](https://github.com/lxgw/LxgwNeoXiHei) | [猫啃网](https://www.maoken.com/freefonts/10610.html)  
 ![霞鹜新致宋 / LXGW Neo ZhiSong](./images/fontlist/lxgwnzs_day.png#gh-light-mode-only)
 ![霞鹜新致宋 / LXGW Neo ZhiSong](./images/fontlist/lxgwnzs_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwNeoZhiSong) | [猫啃](https://www.maoken.com/freefonts/18476.html)  
+[GitHub](https://github.com/lxgw/LxgwNeoZhiSong) | [猫啃网](https://www.maoken.com/freefonts/18476.html)  
 ![霞鹜铭心宋 / LXGW Heart Serif](./images/fontlist/lxgwhs_day.png#gh-light-mode-only)
 ![霞鹜铭心宋 / LXGW Heart Serif](./images/fontlist/lxgwhs_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwNeoZhiSong) | [猫啃](https://www.maoken.com/freefonts/19277.html)  
-
-> ㊟ 「尚智黑」「铭心宋」分别为「新晰黑」「新致宋」的随附字体，没有单独的项目仓库，故在本简表中以猫啃网链接列出。  
-> 　 「晰致尚铭」系列字体在 [IPA Font License 1.0](https://moji.or.jp/ipafont/license/) 授权许可下发行。
+[GitHub](https://github.com/lxgw/LxgwNeoZhiSong) | [猫啃网](https://www.maoken.com/freefonts/19277.html) 
 
 ## 特殊字体 / Special Fonts
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai)
