@@ -1,9 +1,11 @@
 # 点击各字体预览图片下方的链接，进入相应字体的 GitHub 页面或猫啃网页面。
 ## 正文字体 / Body Text Fonts（「晰致尚铭」系列）
-![霞鹜新晰黑](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
-![霞鹜新晰黑](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
+![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
+![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/LxgwNeoXiHei) | [猫啃](https://www.maoken.com/freefonts/8999.html)  
-  - [尚智黑 / Fasmart Gothic](https://www.maoken.com/freefonts/10610.html) [猫啃]
+![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_day.png#gh-light-mode-only)
+![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_night.png#gh-dark-mode-only)  
+[GitHub](https://github.com/lxgw/LxgwNeoXiHei) | [猫啃](https://www.maoken.com/freefonts/10610.html)  
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
   - [铭心宋 / Heart Serif](https://www.maoken.com/freefonts/19277.html) [猫啃]
 
