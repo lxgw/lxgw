@@ -1,3 +1,4 @@
+# 点击各字体预览图片下方的链接，进入相应字体的 GitHub 页面或猫啃网页面。
 ## 正文字体 / Body Text Fonts（「晰致尚铭」系列）
 ![霞鹜新晰黑](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
