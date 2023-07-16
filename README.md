@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 [个人博客 / Blog](https://lxgw.github.io) <sup>试行 / Beta</sup>  
 [永硕Ｅ盘 / YsEpan](http://lxgw.ysepan.com)  
-[开源中文字体 / Open-source Fonts](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/) | [简表 / Brief List](https://github.com/lxgw/lxgw/blob/main/fonts.md)  
+[开源中文字体 / Open-source Fonts](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)  
+[开源中文字体图文简表 / Brief List of Open-source Fonts](https://github.com/lxgw/lxgw/blob/main/fonts.md)  
 [外字初步整理一览表](https://github.com/lxgw/ext-characters)  
 [CJK 字体 Magisk 模块模板](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)  
 [打赏 / Donate](https://github.com/lxgw/lxgw/blob/main/Donate.md)
