@@ -13,7 +13,7 @@
 [GitHub](https://github.com/lxgw/LxgwNeoZhiSong) | [猫啃网](https://www.maoken.com/freefonts/19277.html)  
 ![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_day.png#gh-light-mode-only)
 ![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_night.png#gh-dark-mode-only)  
-[GitHub 完整](https://github.com/lxgw/LxgwWenKai) / [轻便](https://github.com/lxgw/LxgwWenKai-Lite) / [屏阅](https://github.com/lxgw/LxgwWenKai-Screen) | [猫啃网](https://www.maoken.com/freefonts/9704.html)  
+[GitHub 完整](https://github.com/lxgw/LxgwWenKai) / [轻便](https://github.com/lxgw/LxgwWenKai-Lite) / [屏阅](https://github.com/lxgw/LxgwWenKai-Screen) / [Bright](https://github.com/lxgw/LxgwBright) | [猫啃网](https://www.maoken.com/freefonts/9704.html)  
 ![霞鹜文楷 GB / LXGW WenKai GB](./images/fontlist/lxgwwkgb_day.png#gh-light-mode-only)
 ![霞鹜文楷 GB / LXGW WenKai GB](./images/fontlist/lxgwwkgb_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/LxgwWenKaiGB) | [猫啃网](https://www.maoken.com/freefonts/16864.html)  
