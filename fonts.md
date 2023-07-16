@@ -20,9 +20,15 @@ GitHub [普通](https://github.com/lxgw/LxgwWenKaiGB) [融合](https://github.co
 ![霞鹜文楷 TC / LXGW WenKai TC](./images/fontlist/lxgwwktc_day.png#gh-light-mode-only)
 ![霞鹜文楷 TC / LXGW WenKai TC](./images/fontlist/lxgwwktc_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/LxgwWenKaiTC) | [猫啃网](https://www.maoken.com/freefonts/16424.html)  
-
-- [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
-- [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
+![霞鹜漫黑 / LXGW Marker Gothic](./images/fontlist/lxgwwkmg_day.png#gh-light-mode-only)
+![霞鹜漫黑 / LXGW Marker Gothic](./images/fontlist/lxgwwkmg_night.png#gh-dark-mode-only)  
+[GitHub](https://github.com/lxgw/kose-font) | [猫啃网](https://www.maoken.com/freefonts/4306.html)  
+![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_day.png#gh-light-mode-only)
+![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_night.png#gh-dark-mode-only)  
+[GitHub](https://github.com/lxgw/kose-font) | [猫啃网](https://www.maoken.com/freefonts/4306.html)  
+![悠哉字体 / Yozai Font](./images/fontlist/yozai_day.png#gh-light-mode-only)
+![悠哉字体 / Yozai Font](./images/fontlist/yozai_night.png#gh-dark-mode-only)  
+[GitHub](https://github.com/lxgw/yozai-font) | [猫啃网](https://www.maoken.com/freefonts/5423.html)  
 
 ## 海报字体 / POP Fonts
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/lxgwmarkergothic)
