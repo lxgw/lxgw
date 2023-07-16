@@ -29,7 +29,10 @@ GitHub [普通](https://github.com/lxgw/LxgwWenKaiGB) [融合](https://github.co
 ![悠哉字体 / Yozai Font](./images/fontlist/yozai_day.png#gh-light-mode-only)
 ![悠哉字体 / Yozai Font](./images/fontlist/yozai_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/yozai-font) | [猫啃网](https://www.maoken.com/freefonts/5423.html)  
+![霞鹜传承晰黑 / LXGW Clear Gothic](./images/fontlist/ablxgwcg_day.png#gh-light-mode-only)
+![霞鹜传承晰黑 / LXGW Clear Gothic](./images/fontlist/ablxgwcg_night.png#gh-dark-mode-only)  
+[GitHub](https://github.com/lxgw/LxgwClearGothic) | [猫啃网](https://www.maoken.com/freefonts/8781.html)  
+![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/ablxgwzk_day.png#gh-light-mode-only)
+![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/ablxgwzk_night.png#gh-dark-mode-only)  
+[GitHub](https://github.com/lxgw/LxgwZhenKai) | [猫啃网](https://www.maoken.com/freefonts/14773.html)  
 
-## 以下字体由于某些原因不再更新，并且项目仓库已归档。
-- ~~[霞鹜（传承）晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic)~~
-- ~~[霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)~~
