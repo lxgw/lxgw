@@ -59,3 +59,5 @@ Here are some ideas to get you started:
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 
 -->
+
+![访客人数](https://visitor-badge.glitch.me/badge?page_id=lxgw)
