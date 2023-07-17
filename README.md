@@ -1,7 +1,6 @@
 <div align="center">
   
-<img src="images/lxgw-logo.svg" width = "128" height = "128" align=center /></br>
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=%20落霞与孤鹜齐飞，秋水共长天一色。%20&center=true&size=27"> </a> </h1>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=LXGW+WenKai+GB&pause=1000&color=2979FF&width=435&lines=%E8%90%BD%E9%9C%9E%E4%B8%8E%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E%EF%BC%8C%E7%A7%8B%E6%B0%B4%E5%85%B1%E9%95%BF%E5%A4%A9%E4%B8%80%E8%89%B2%E3%80%82)](https://git.io/typing-svg)
 
 <!--
 **lxgw/lxgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
