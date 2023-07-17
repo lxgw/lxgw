@@ -1,7 +1,7 @@
 # 「霞鹜系列开源字体」图文简表
 截至 2023/07/17
 
-## 点击各字体预览图片下方的链接，进入相应字体的 GitHub 页面或猫啃网页面。
+## 点击各字体预览图片下方的链接，进入相应字体的 GitHub 页面或字体网站页面。
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
 GitHub [普通](https://github.com/lxgw/LxgwNeoXiHei) [屏阅](https://github.com/lxgw/LxgwNeoXiHei-Screen) | [猫啃网](https://www.maoken.com/freefonts/8999.html) | [字加](https://www.zijia.com.cn/6534.html)
@@ -51,6 +51,8 @@ GitHub [普通](https://github.com/lxgw/LxgwWenKaiGB) [融合](https://github.co
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/ablxgwzk_day.png#gh-light-mode-only)
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/ablxgwzk_night.png#gh-dark-mode-only)  
 [归档原因](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3) | [GitHub](https://github.com/lxgw/LxgwZhenKai) | [猫啃网](https://www.maoken.com/freefonts/14773.html) | [字加](https://www.zijia.com.cn/6535.html)
+
+> ㊟ 「975 系列字体」等由思源字体衍生的字体未予收录。
 
 ## 许可协议官方入口
 
