@@ -31,10 +31,10 @@ GitHub [普通](https://github.com/lxgw/LxgwWenKaiGB) [融合](https://github.co
 [GitHub](https://github.com/lxgw/yozai-font) | [猫啃网](https://www.maoken.com/freefonts/5423.html) | [字加](https://www.zijia.com.cn/6536.html)  
 ![霞鹜传承晰黑 / LXGW Clear Gothic](./images/fontlist/ablxgwcg_day.png#gh-light-mode-only)
 ![霞鹜传承晰黑 / LXGW Clear Gothic](./images/fontlist/ablxgwcg_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwClearGothic) | [猫啃网](https://www.maoken.com/freefonts/8781.html)  
+[归档原因](https://github.com/lxgw/LxgwClearGothic/issues/12) | [GitHub](https://github.com/lxgw/LxgwClearGothic) | [猫啃网](https://www.maoken.com/freefonts/8781.html)  
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/ablxgwzk_day.png#gh-light-mode-only)
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/ablxgwzk_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwZhenKai) | [猫啃网](https://www.maoken.com/freefonts/14773.html) | [字加](https://www.zijia.com.cn/6535.html)  
+[归档原因](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3) | [GitHub](https://github.com/lxgw/LxgwZhenKai) | [猫啃网](https://www.maoken.com/freefonts/14773.html) | [字加](https://www.zijia.com.cn/6535.html)  
 
 <p align="center"><a href="https://moji.or.jp/ipafont/license/"><img src="https://github.com/lxgw/lxgw/blob/main/images/fontlist/ipa_link.svg" alt="IPA 开放字体授权协议（日语）" align=center></a></p>
 <p align="center"><a href="https://scripts.sil.org/ofl"><img src="https://github.com/lxgw/lxgw/blob/main/images/fontlist/ofl_link.svg" alt="SIL OFL 1.1 开源授权协议（英语）" align=center></a></p>
