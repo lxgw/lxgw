@@ -1,3 +1,6 @@
+# 「霞鹜开源字体」图文简表
+截至 2023/07/17
+
 ## 点击各字体预览图片下方的链接，进入相应字体的 GitHub 页面或猫啃网页面。
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
