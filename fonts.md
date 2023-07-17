@@ -52,7 +52,7 @@ GitHub [普通](https://github.com/lxgw/LxgwWenKaiGB) [融合](https://github.co
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/ablxgwzk_night.png#gh-dark-mode-only)  
 [归档原因](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3) | [GitHub](https://github.com/lxgw/LxgwZhenKai) | [猫啃网](https://www.maoken.com/freefonts/14773.html) | [字加](https://www.zijia.com.cn/6535.html)
 
-> ㊟ 「975 系列字体」等由思源字体衍生的字体未予收录。
+> ㊟ 「975 系列字体」等由思源字体衍生的字体，此表未予收录。
 
 ## 许可协议官方入口
 
