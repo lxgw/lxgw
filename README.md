@@ -1,7 +1,7 @@
 <div align="center">
   
 <img src="images/lxgw-logo.svg" width = "128" height = "128" align=center /></br>
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=落霞与孤鹜齐飞，秋水共长天一色。&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=%20落霞与孤鹜齐飞，秋水共长天一色。%20&center=true&size=27"> </a> </h1>
 
 <!--
 **lxgw/lxgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
