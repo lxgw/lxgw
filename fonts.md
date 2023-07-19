@@ -8,7 +8,7 @@ GitHub [普通](https://github.com/lxgw/LxgwNeoXiHei) [屏阅](https://github.co
 
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_day.png#gh-light-mode-only)
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwNeoXiHei) | [猫啃网](https://www.maoken.com/freefonts/10610.html) | [字加](https://www.zijia.com.cn/6531.html)
+[GitHub](https://github.com/lxgw/LxgwNeoXiHei)³ | [猫啃网](https://www.maoken.com/freefonts/10610.html) | [字加](https://www.zijia.com.cn/6531.html)
 
 ![霞鹜新致宋 / LXGW Neo ZhiSong](./images/fontlist/lxgwnzs_day.png#gh-light-mode-only)
 ![霞鹜新致宋 / LXGW Neo ZhiSong](./images/fontlist/lxgwnzs_night.png#gh-dark-mode-only)  
@@ -16,7 +16,7 @@ GitHub [普通](https://github.com/lxgw/LxgwNeoXiHei) [屏阅](https://github.co
 
 ![霞鹜铭心宋 / LXGW Heart Serif](./images/fontlist/lxgwhs_day.png#gh-light-mode-only)
 ![霞鹜铭心宋 / LXGW Heart Serif](./images/fontlist/lxgwhs_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwNeoZhiSong) | [猫啃网](https://www.maoken.com/freefonts/19277.html)
+[GitHub](https://github.com/lxgw/LxgwNeoZhiSong)³ | [猫啃网](https://www.maoken.com/freefonts/19277.html)
 
 ![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_day.png#gh-light-mode-only)
 ![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_night.png#gh-dark-mode-only)  
