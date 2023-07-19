@@ -42,6 +42,12 @@ GitHub [普通](https://github.com/lxgw/LxgwWenKaiGB) [融合](https://github.co
 ![悠哉字体 / Yozai Font](./images/fontlist/yozai_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/yozai-font) | [猫啃网](https://www.maoken.com/freefonts/5423.html) | [字加](https://www.zijia.com.cn/6536.html)
 
+### 中英文合并字体
+
+![LXGW Bright](./images/fontlist/lxgwbrgt_day.png#gh-light-mode-only)
+![LXGW Bright](./images/fontlist/lxgwbrgt_night.png#gh-dark-mode-only)  
+[GitHub](https://github.com/lxgw/lxgwbright)
+
 ### 以下字体由于某些原因放弃维护，项目仓库归档处理。
 
 ![霞鹜传承晰黑 / LXGW Clear Gothic](./images/fontlist/ablxgwcg_day.png#gh-light-mode-only)
@@ -53,8 +59,9 @@ GitHub [普通](https://github.com/lxgw/LxgwWenKaiGB) [融合](https://github.co
 [归档原因](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3) | [GitHub](https://github.com/lxgw/LxgwZhenKai) | [猫啃网](https://www.maoken.com/freefonts/14773.html) | [字加](https://www.zijia.com.cn/6535.html)
 
 > ㊟
-> 1. 「975 系列字体」等由思源字体衍生的字体，此表未予收录。
+> 1. 此表未予收录「975 系列字体」等由思源字体衍生的字体，以及「缝合楷」。
 > 2. 预览图中「IPA/OFL」授权许可标签下方的年月时间为该字体的首次发布时间（或首次发布时间至项目仓库归档时间）。
+> 3. 「霞鹜尚智黑」「霞鹜铭心宋」分别为「霞鹜新晰黑」「霞鹜新致宋」的随附字体，没有单独的 GitHub 项目仓库，因此点击 GitHub 项目链接时会进入「霞鹜新晰黑」或「霞鹜新致宋」的项目专页。
 
 ## 许可协议官方入口
 
