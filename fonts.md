@@ -2,6 +2,8 @@
 截至 2023/07/17
 
 ## 请点击各字体预览图片下方的链接，进入相应字体的 GitHub 页面或字体网站页面。
+请勿直接点击预览图片。
+
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
 GitHub [普通](https://github.com/lxgw/LxgwNeoXiHei) [屏阅](https://github.com/lxgw/LxgwNeoXiHei-Screen) | [猫啃网](https://www.maoken.com/freefonts/8999.html) | [字加](https://www.zijia.com.cn/6534.html)
