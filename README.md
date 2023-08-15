@@ -4,27 +4,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+GB&pause=1000&color=2979FF&center=true&width=400&height=50&lines=%E8%90%BD%E9%9C%9E%E4%B8%8E%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E%EF%BC%8C%E7%A7%8B%E6%B0%B4%E5%85%B1%E9%95%BF%E5%A4%A9%E4%B8%80%E8%89%B2%E3%80%82" alt="Typing SVG" />
 </h1>
   
-<!--
-**lxgw/lxgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)
 
+[![字体一览（表格版）](https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E5%AD%97%E4%BD%93%E4%B8%80%E8%A7%88-%E8%A1%A8%E6%A0%BC%E7%89%88-2694E8?style=for-the-badge&)](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)
+[![字体一览（图文版）](https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E5%AD%97%E4%BD%93%E4%B8%80%E8%A7%88-%E5%9B%BE%E6%96%87%E7%89%88-FC60A8?style=for-the-badge&)](https://github.com/lxgw/lxgw/blob/main/fonts.md)  
 [个人博客 / Blog](https://lxgw.github.io) <sup>试行 / Beta</sup>  
 [永硕Ｅ盘 / YsEpan](http://lxgw.ysepan.com)  
-[开源中文字体一览表（表格版） / List of Open-source Fonts](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)  
-[开源中文字体一览表（图文版） / Pics of Open-source Fonts](https://github.com/lxgw/lxgw/blob/main/fonts.md)  
 [外字初步整理一览表](https://github.com/lxgw/ext-characters)  
 [CJK 字体 Magisk 模块模板](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)  
 [打赏 / Donate](https://github.com/lxgw/lxgw/blob/main/Donate.md)
