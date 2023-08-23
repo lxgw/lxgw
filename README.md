@@ -6,6 +6,9 @@
   
 [开源字体一览（表格版）](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)  
 [开源字体一览（图文版）](https://github.com/lxgw/lxgw/blob/main/fonts.md)  
+
+[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)
+
 [个人博客 / Blog](https://lxgw.github.io) <sup>试行 / Beta</sup>  
 [永硕Ｅ盘 / YsEpan](http://lxgw.ysepan.com)  
 [外字初步整理一览表](https://github.com/lxgw/ext-characters)  
@@ -27,9 +30,6 @@
 [![](https://img.shields.io/badge/lxgw1999-%40qq.com-royalblue?style=flat-square)](mailto:lxgw1999@qq.com)
 [![](https://img.shields.io/badge/calxgw2018-%40gmail.com-indianred?style=flat-square)](mailto:calxgw2018@gmail.com)
 [![](https://img.shields.io/badge/srtong2006-%40126.com-forestgreen?style=flat-square)](mailto:srtong2006@126.com) 
-
-  
-[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)
 
 <!--
 
