@@ -1,7 +1,9 @@
 # 「霞鹜系列开源字体」一览表（图文版）
 截至 2023/08/23
 
-## 请点击各字体预览图片下方的链接（不是点击预览图片），进入相应字体的 GitHub 页面或字体网站页面。
+## 主要字体
+请点击各字体预览图片下方的链接（不是点击预览图片），进入相应字体的 GitHub 页面或字体网站页面。
+
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
 [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwNeoXiHei)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwNeoXiHei.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwNeoXiHei/releases/latest) [![](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/8999.html) [![](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6534.html)  
