@@ -35,7 +35,7 @@
 
 ![霞鹜漫黑 / LXGW Marker Gothic](./images/fontlist/lxgwmg_day.png#gh-light-mode-only)
 ![霞鹜漫黑 / LXGW Marker Gothic](./images/fontlist/lxgwmg_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwMarkerGothic) [![releases](https://img.shields.io/github/v/release/lxgw/LxgwMarkerGothic.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgwLxgwMarkerGothic/releases/latest) | [猫啃网](https://www.maoken.com/freefonts/4306.html) | [字加](https://www.zijia.com.cn/6530.html)
+[GitHub](https://github.com/lxgw/LxgwMarkerGothic) [![releases](https://img.shields.io/github/v/release/lxgw/LxgwMarkerGothic.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwMarkerGothic/releases/latest) | [猫啃网](https://www.maoken.com/freefonts/4306.html) | [字加](https://www.zijia.com.cn/6530.html)
 
 ![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_day.png#gh-light-mode-only)
 ![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_night.png#gh-dark-mode-only)  
