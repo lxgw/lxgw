@@ -39,11 +39,11 @@
 
 ![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_day.png#gh-light-mode-only)
 ![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_night.png#gh-dark-mode-only)  
-[![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/kose-font) [![](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/4306.html) [![](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6572.html)
+[![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/kose-font)[![releases](https://img.shields.io/github/v/release/lxgw/kose-font.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/kose-font/releases/latest) [![](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/4306.html) [![](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6572.html)
 
 ![悠哉字体 / Yozai Font](./images/fontlist/yozai_day.png#gh-light-mode-only)
 ![悠哉字体 / Yozai Font](./images/fontlist/yozai_night.png#gh-dark-mode-only)  
-[![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/yozai-font) [![](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/5423.html) [![](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6536.html)
+[![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/yozai-font)[![releases](https://img.shields.io/github/v/release/lxgw/yozai-font.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/yozai-font/releases/latest) [![](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/5423.html) [![](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6536.html)
 
 ### 中英文合并字体
 
