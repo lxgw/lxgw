@@ -5,11 +5,11 @@
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/LxgwNeoXiHei) [![releases](https://img.shields.io/github/v/release/lxgw/LxgwNeoXiHei.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwNeoXiHei/releases/latest) | [猫啃网](https://www.maoken.com/freefonts/8999.html) | [字加](https://www.zijia.com.cn/6534.html)  
-更多版本：[屏幕阅读版](https://github.com/lxgw/LxgwNeoXiHei-Screen)
+**更多版本：**[屏幕阅读版](https://github.com/lxgw/LxgwNeoXiHei-Screen)
 
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_day.png#gh-light-mode-only)
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwNeoXiHei)<sup>3</sup> [![releases](https://img.shields.io/github/v/release/lxgw/LxgwNeoXiHei.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwNeoXiHei/releases/latest) | [猫啃网](https://www.maoken.com/freefonts/10610.html) | [字加](https://www.zijia.com.cn/6531.html)
+[GitHub](https://github.com/lxgw/LxgwNeoXiHei) [![releases](https://img.shields.io/github/v/release/lxgw/LxgwNeoXiHei.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwNeoXiHei/releases/latest) | [猫啃网](https://www.maoken.com/freefonts/10610.html) | [字加](https://www.zijia.com.cn/6531.html)
 
 ![霞鹜新致宋 / LXGW Neo ZhiSong](./images/fontlist/lxgwnzs_day.png#gh-light-mode-only)
 ![霞鹜新致宋 / LXGW Neo ZhiSong](./images/fontlist/lxgwnzs_night.png#gh-dark-mode-only)  
@@ -17,17 +17,17 @@
 
 ![霞鹜铭心宋 / LXGW Heart Serif](./images/fontlist/lxgwhs_day.png#gh-light-mode-only)
 ![霞鹜铭心宋 / LXGW Heart Serif](./images/fontlist/lxgwhs_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/LxgwNeoZhiSong)<sup>3</sup> [![releases](https://img.shields.io/github/v/release/lxgw/LxgwNeoZhiSong.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwNeoZhiSong/releases/latest) | [猫啃网](https://www.maoken.com/freefonts/19277.html) | [字加](https://www.zijia.com.cn/6597.html)
+[GitHub](https://github.com/lxgw/LxgwNeoZhiSong) [![releases](https://img.shields.io/github/v/release/lxgw/LxgwNeoZhiSong.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwNeoZhiSong/releases/latest) | [猫啃网](https://www.maoken.com/freefonts/19277.html) | [字加](https://www.zijia.com.cn/6597.html)
 
 ![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_day.png#gh-light-mode-only)
 ![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/LxgwWenKai) [![releases](https://img.shields.io/github/v/release/lxgw/LxgwWenKai.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwWenKai/releases/latest) | [猫啃网](https://www.maoken.com/freefonts/9704.html)  
-更多版本：[轻便版](https://github.com/lxgw/LxgwWenKai-Lite) [屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen)
+**更多版本：**[轻便版](https://github.com/lxgw/LxgwWenKai-Lite) [屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen)
 
 ![霞鹜文楷 GB / LXGW WenKai GB](./images/fontlist/lxgwwkgb_day.png#gh-light-mode-only)
 ![霞鹜文楷 GB / LXGW WenKai GB](./images/fontlist/lxgwwkgb_night.png#gh-dark-mode-only)  
 [GitHub](https://github.com/lxgw/LxgwWenKaiGB) [![releases](https://img.shields.io/github/v/release/lxgw/LxgwWenKaiGB.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwWenKaiGB/releases/latest) | [猫啃网](https://www.maoken.com/freefonts/16864.html) | [字加](https://www.zijia.com.cn/6532.html)  
-更多版本：[融合版](https://github.com/lxgw/LxgwWenKaiGB-Fusion)
+**更多版本：**[融合版](https://github.com/lxgw/LxgwWenKaiGB-Fusion)
 
 ![霞鹜文楷 TC / LXGW WenKai TC](./images/fontlist/lxgwwktc_day.png#gh-light-mode-only)
 ![霞鹜文楷 TC / LXGW WenKai TC](./images/fontlist/lxgwwktc_night.png#gh-dark-mode-only)  
@@ -49,7 +49,7 @@
 
 ![LXGW Bright](./images/fontlist/lxgwbrgt_day.png#gh-light-mode-only)
 ![LXGW Bright](./images/fontlist/lxgwbrgt_night.png#gh-dark-mode-only)  
-[GitHub](https://github.com/lxgw/lxgwbright)
+[GitHub](https://github.com/lxgw/lxgwbright) [![releases](https://img.shields.io/github/v/release/lxgw/lxgwbright.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgwbright/releases/latest)
 
 ### 以下字体由于某些原因放弃维护，项目仓库归档处理。
 
