@@ -1,9 +1,8 @@
 <div align="center">
-
-[简体中文](https://github.com/lxgw/lxgw/blob/main/README.md)
   
 <h1>
 <img src="images/lxgw-logo.svg" width = "128" height = "128" align=center /> </br>
+[简体中文](https://github.com/lxgw/lxgw/blob/main/README.md)
 </h1>
 
 [The List of open-source fonts](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)  
