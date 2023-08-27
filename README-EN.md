@@ -6,7 +6,7 @@
 [The List of open-source fonts](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)  
 [The List of open-source fonts (with pictures)](https://github.com/lxgw/lxgw/blob/main/fonts.md)  
 
-[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)
+[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
 [Blog](https://lxgw.github.io) <sup>Beta</sup>  
 [Online Disk (ysepan.com)](http://lxgw.ysepan.com)  
