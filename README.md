@@ -1,5 +1,9 @@
 <div align="center">
 
+> **公告**
+> 由于个人现实生活原因，即日起暂停一切字体的更新与维护工作。
+> 2024/01/04
+
 <img src="images/lxgw-logo.svg" width = "128" height = "128" align=center /> </br>
 <img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+GB&pause=1000&color=2979FF&center=true&width=400&height=50&lines=%E8%90%BD%E9%9C%9E%E4%B8%8E%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E%EF%BC%8C%E7%A7%8B%E6%B0%B4%E5%85%B1%E9%95%BF%E5%A4%A9%E4%B8%80%E8%89%B2%E3%80%82" alt="Typing SVG" />
 ---
