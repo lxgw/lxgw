@@ -1,10 +1,4 @@
 
-> **公告**
-> 
-> 由于一系列个人现实因素，今年《霞鹜文楷》等开源字体或将暂缓更新，请各位见谅。
-> 
-> 2024/01/24
-
 <div align="center">
 
 <img src="images/lxgw-logo.svg" width = "128" height = "128" align=center /> </br>
