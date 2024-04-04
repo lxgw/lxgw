@@ -1,5 +1,5 @@
 # 「霞鹜系列开源字体」一览表（图文版）
-截至 2023/08/23
+截至 2024/04/24
 
 ## 字体列表
 请点击各字体预览图片下方的链接（不是点击预览图片），进入相应字体的 GitHub 页面或字体网站页面。
@@ -47,17 +47,21 @@
 ![悠哉字体 / Yozai Font](./images/fontlist/yozai_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/yozai-font)[![releases](https://img.shields.io/github/v/release/lxgw/yozai-font.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/yozai-font/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/5423.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6536.html)
 
+![霞鹜晰黑 / LXGW XiHei](./images/fontlist/lxgwxh_day.png#gh-light-mode-only)
+![霞鹜晰黑 / LXGW XiHei](./images/fontlist/lxgwxh_night.png#gh-dark-mode-only)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwXiHei)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwXiHei.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwXiHei/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/8781.html)
+
+![霞鹜致宋 / LXGW ZhiSong](./images/fontlist/lxgwzs_day.png#gh-light-mode-only)
+![霞鹜致宋 / LXGW ZhiSong](./images/fontlist/lxgwzs_night.png#gh-dark-mode-only)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwZhiSong)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwZhiSong.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwZhiSong/releases/latest)
+
 ### 中英文合并字体
 
-![LXGW Bright](./images/fontlist/lxgwbrgt_day.png#gh-light-mode-only)
-![LXGW Bright](./images/fontlist/lxgwbrgt_night.png#gh-dark-mode-only)  
+![LXGW Bright](./images/fontlist/lxgwbrt2_day.png#gh-light-mode-only)
+![LXGW Bright](./images/fontlist/lxgwbrt2_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/lxgwbright)[![releases](https://img.shields.io/github/v/release/lxgw/lxgwbright.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/lxgwbright/releases/latest)
 
 ### 以下字体由于某些原因放弃维护，项目仓库归档处理。
-
-![霞鹜传承晰黑 / LXGW Clear Gothic](./images/fontlist/ablxgwcg_day.png#gh-light-mode-only)
-![霞鹜传承晰黑 / LXGW Clear Gothic](./images/fontlist/ablxgwcg_night.png#gh-dark-mode-only)  
-[归档原因](https://github.com/lxgw/LxgwClearGothic/issues/12) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwClearGothic) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/8781.html)
 
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/ablxgwzk_day.png#gh-light-mode-only)
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/ablxgwzk_night.png#gh-dark-mode-only)  
