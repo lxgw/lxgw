@@ -71,4 +71,4 @@
 ## 许可协议官方入口
 
 <p align="center"><a href="https://moji.or.jp/ipafont/license/"><img src="https://github.com/lxgw/lxgw/blob/main/images/fontlist/ipa_link.svg" alt="IPA 开放字体授权协议（日语）" align=center></a></p>
-<p align="center"><a href="https://scripts.sil.org/OFL_web"><img src="https://github.com/lxgw/lxgw/blob/main/images/fontlist/ofl_link.svg" alt="SIL OFL 1.1 开源授权协议（英语）" align=center></a></p>
+<p align="center"><a href="https://openfontlicense.org"><img src="https://github.com/lxgw/lxgw/blob/main/images/fontlist/ofl_link.svg" alt="SIL OFL 1.1 开源授权协议（英语）" align=center></a></p>
