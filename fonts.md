@@ -47,12 +47,12 @@
 ![悠哉字体 / Yozai Font](./images/fontlist/yozai_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/yozai-font)[![releases](https://img.shields.io/github/v/release/lxgw/yozai-font.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/yozai-font/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/5423.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6536.html)
 
-![霞鹜晰黑 / LXGW XiHei](./images/fontlist/lxgwxh_day.png#gh-light-mode-only)
-![霞鹜晰黑 / LXGW XiHei](./images/fontlist/lxgwxh_night.png#gh-dark-mode-only)  
+![霞鹜晰黑 / LXGW XiHei](./images/fontlist/lxgwxhmn_day.png#gh-light-mode-only)
+![霞鹜晰黑 / LXGW XiHei](./images/fontlist/lxgwxhmn_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwXiHei)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwXiHei.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwXiHei/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/21056.html)[![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91legacy-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/8781.html)
 
-![霞鹜致宋 / LXGW ZhiSong](./images/fontlist/lxgwzs_day.png#gh-light-mode-only)
-![霞鹜致宋 / LXGW ZhiSong](./images/fontlist/lxgwzs_night.png#gh-dark-mode-only)  
+![霞鹜致宋 / LXGW ZhiSong](./images/fontlist/lxgwzsmn_day.png#gh-light-mode-only)
+![霞鹜致宋 / LXGW ZhiSong](./images/fontlist/lxgwzsmn_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwZhiSong)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwZhiSong.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwZhiSong/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/21045.html)
 
 ### 中英文合并字体
