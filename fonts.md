@@ -1,5 +1,5 @@
 # 「霞鹜系列开源字体」一览表（图文版）
-截至 2024/04/06
+截至 2024/06/01
 
 ## 字体列表
 请点击各字体预览图片下方的链接（不是点击预览图片），进入相应字体的 GitHub 页面或字体网站页面。
@@ -34,6 +34,7 @@
 ![霞鹜文楷 TC / LXGW WenKai TC](./images/fontlist/lxgwwktc_day.png#gh-light-mode-only)
 ![霞鹜文楷 TC / LXGW WenKai TC](./images/fontlist/lxgwwktc_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwWenKaiTC)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwWenKaiTC.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwWenKaiTC/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/16424.html)
+[![Google Fonts](https://shields.io/badge/Fonts-4285F4?style=flat-square&logo=google&logoColor=ffffff)](https://www.maoken.com/freefonts/16424.html)
 
 ![霞鹜漫黑 / LXGW Marker Gothic](./images/fontlist/lxgwmg_day.png#gh-light-mode-only)
 ![霞鹜漫黑 / LXGW Marker Gothic](./images/fontlist/lxgwmg_night.png#gh-dark-mode-only)  
