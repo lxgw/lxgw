@@ -51,7 +51,7 @@
 
 ![霞鹜晰黑 / LXGW XiHei](./images/fontlist/lxgwxhmn_day.png#gh-light-mode-only)
 ![霞鹜晰黑 / LXGW XiHei](./images/fontlist/lxgwxhmn_night.png#gh-dark-mode-only)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwXiHei)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwXiHei.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwXiHei/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/21056.html)[![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91legacy-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/8781.html)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwXiHei)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwXiHei.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwXiHei/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/21056.html)[![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91(%E6%97%A7)-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/8781.html)
 
 ![霞鹜致宋 / LXGW ZhiSong](./images/fontlist/lxgwzsmn_day.png#gh-light-mode-only)
 ![霞鹜致宋 / LXGW ZhiSong](./images/fontlist/lxgwzsmn_night.png#gh-dark-mode-only)  
