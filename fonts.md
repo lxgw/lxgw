@@ -7,11 +7,12 @@
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwNeoXiHei)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwNeoXiHei.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwNeoXiHei/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/8999.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6534.html)  
-**更多版本：**[屏幕阅读版](https://github.com/lxgw/LxgwNeoXiHei-Screen)
+**更多版本：**[屏幕阅读版](https://github.com/lxgw/LxgwNeoXiZhi-Screen)
 
 ![霞鹜新致宋 / LXGW Neo ZhiSong](./images/fontlist/lxgwnzs_day.png#gh-light-mode-only)
 ![霞鹜新致宋 / LXGW Neo ZhiSong](./images/fontlist/lxgwnzs_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwNeoZhiSong)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwNeoZhiSong.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwNeoZhiSong/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/18476.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6596.html)
+**更多版本：**[屏幕阅读版](https://github.com/lxgw/LxgwNeoXiZhi-Screen) [融合版](https://github.com/lxgw/LxgwNeoZhiSong-Fusion)
 
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_day.png#gh-light-mode-only)
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_night.png#gh-dark-mode-only)  
