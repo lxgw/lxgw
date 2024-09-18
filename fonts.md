@@ -4,8 +4,6 @@
 ## 字体列表
 请点击各字体预览图片下方的链接（不是点击预览图片），进入相应字体的 GitHub 页面或字体网站页面。
 
-如果以下字体给您带来了不便，建议您选用其他作者的字体。
-
 ![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_day.png#gh-light-mode-only)
 ![霞鹜文楷 / LXGW WenKai](./images/fontlist/lxgwwk_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwWenKai)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwWenKai.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwWenKai/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/9704.html)  
