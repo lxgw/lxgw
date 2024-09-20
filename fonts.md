@@ -62,17 +62,17 @@
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/lxgwzk_day.png#gh-light-mode-only)
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/lxgwzk_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwZhenKai) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/14773.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6535.html)  
-停止维护时间：2022.05 [归档原因](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3) 
+**停止维护时间：** 2022.05 [归档原因](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3) 
 
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_day.png#gh-light-mode-only)
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwFasmartGothic) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/10610.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6531.html)  
-停止维护时间：2024.09
+**停止维护时间：** 2024.09
 
 ![霞鹜铭心宋 / LXGW Heart Serif](./images/fontlist/lxgwhs_day.png#gh-light-mode-only)
 ![霞鹜铭心宋 / LXGW Heart Serif](./images/fontlist/lxgwhs_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwHeartSerif) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/19277.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6597.html)  
-停止维护时间：2024.09
+**停止维护时间：** 2024.09
 
 > ㊟
 > 1. 此表未予收录「975 系列字体」等由思源字体衍生的字体，以及「缝合楷」。
