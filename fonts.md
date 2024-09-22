@@ -57,6 +57,10 @@
 ![LXGW Bright](./images/fontlist/lxgwbrt2_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/lxgwbright)[![releases](https://img.shields.io/github/v/release/lxgw/lxgwbright.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/lxgwbright/releases/latest)
 
+![LXGW Bright Code](./images/fontlist/lxgwbrcd_day.png#gh-light-mode-only)
+![LXGW Bright Code](./images/fontlist/lxgwbrcd_night.png#gh-dark-mode-only)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/lxgwbright-code)[![releases](https://img.shields.io/github/v/release/lxgw/lxgwbright-code.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/lxgwbright-code/releases/latest)
+
 ### 以下字体停止维护，项目仓库归档处理。
 
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/lxgwzk_day.png#gh-light-mode-only)
