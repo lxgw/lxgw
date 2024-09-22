@@ -66,7 +66,7 @@
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/lxgwzk_day.png#gh-light-mode-only)
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/lxgwzk_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwZhenKai)[![releases](https://img.shields.io/github/v/release/lxgw/lxgwzhenkai.svg?style=flat-square&label=%E6%9C%80%E5%90%8E)](https://github.com/lxgw/lxgwzhenkai/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/14773.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6535.html)  
-**停止维护时间：** 2022.05 [归档原因](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3) 
+**停止维护时间：** 2022.06 [归档原因](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3) 
 
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_day.png#gh-light-mode-only)
 ![霞鹜尚智黑 / LXGW Fasmart Gothic](./images/fontlist/lxgwfsg_night.png#gh-dark-mode-only)  
