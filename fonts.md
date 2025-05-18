@@ -16,7 +16,7 @@
 ![霞鹜文楷 GB / LXGW WenKai GB](./images/fontlist/lxgwwkgb_day.png#gh-light-mode-only)
 ![霞鹜文楷 GB / LXGW WenKai GB](./images/fontlist/lxgwwkgb_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwWenKaiGB)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwWenKaiGB.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwWenKaiGB/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/16864.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6532.html)  
-**更多版本：**[轻便版](https://github.com/lxgw/LxgwWenKaiGB-Lite) [屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen)
+**更多版本：**[轻便版](https://github.com/lxgw/LxgwWenKaiGB-Lite) [屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen) [彭蠡文楷](https://github.com/lxgw/Pengli)
 
 ![霞鹜文楷 TC / LXGW WenKai TC](./images/fontlist/lxgwwktc_day.png#gh-light-mode-only)
 ![霞鹜文楷 TC / LXGW WenKai TC](./images/fontlist/lxgwwktc_night.png#gh-dark-mode-only)  
