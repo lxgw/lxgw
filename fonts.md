@@ -1,7 +1,7 @@
 > [!CAUTION]
 > 
 > - 近来发现，包括本人改造的开源字体在内的众多开源字体、免费商用字体被淘宝、小红书等电商平台的某些商家倒卖。如您遇到此类店铺贩售下列字体，**请不要购买！** 否则，您所支付的钱财将**不会**流入字体作者手中，您也**不会**获得字体的版本更新或其他支持。
-> - 鉴于各大手机品牌主题商店只对企业开放字体上传权限，少数对个人开放字体权限的也需要版权登记证明（这里面涉及开源二创的版权界定），如果您希望在手机主题商店上使用这些字体，则请您放下这个执念，选用默认字体或主题商店的其他字体。
+> - 鉴于各大手机品牌主题商店只对企业开放字体上传权限，少数对个人开放字体权限的也需要版权登记证明（这里面可能涉及开源二创的著作权归属问题），如果您希望在手机主题商店上使用这些字体，则请您放下这个执念，选用默认字体或主题商店的其他字体。
 
 # 「霞鹜系列开源字体」一览表（图文版）
 截至 2025/07/28
@@ -91,4 +91,4 @@
 ## 许可协议官方入口
 
 <p align="center"><a href="https://moji.or.jp/ipafont/license/"><img src="https://github.com/lxgw/lxgw/blob/main/images/fontlist/ipa_link.svg" alt="IPA 开放字体授权协议（日语）" align=center></a></p>
-<p align="center"><a href="https://openfontlicense.org"><img src="https://github.com/lxgw/lxgw/blob/main/images/fontlist/ofl_link.svg" alt="SIL OFL 1.1 开源授权协议（英语）" align=center></a></p>
+<p align="center"><a href="https://openfontlicense.org/open-font-license-official-text/"><img src="https://github.com/lxgw/lxgw/blob/main/images/fontlist/ofl_link.svg" alt="SIL OFL 1.1 开源授权协议（英语）" align=center></a></p>
