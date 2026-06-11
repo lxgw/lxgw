@@ -44,7 +44,7 @@ To replace this font with the original IPA font, please get the original font fr
 ![pk53CFA.png](https://s21.ax1x.com/2024/07/14/pk53CFA.png)
 
 ### 方案三：与原始字体一同嵌入
-再或者，如果存储空间允许，则可以与 IPA 原始授权字体共同嵌入，便于用户自行切换或者分语言调用（例如当系统语言为简体中文时，优先调用「霞鹜新晰黑」和「霞鹜新致宋」，繁体中文优先调用「霞鹜晰黑 MN」和「霞鹜致宋 MN」，日文则优先调用原始授权字体 IPAexGothic 和 IPAexMincho，如果要嵌入该字体的软件或系统有多语言功能则推荐此方法）。原始授权字体可在 [IPA 字体下载页面](http://moji.or.jp/ipafont/ipafontdownload/)获取。
+再或者，如果存储空间允许，则可以与 IPA 原始授权字体共同嵌入，便于用户自行切换或者分语言调用（例如当系统语言为简体中文时，优先调用「霞鹜新晰黑」和「霞鹜新致宋」，繁体中文优先调用「霞鹜晰黑 MN」和「霞鹜致宋 MN」，日文则优先调用原始授权字体 IPAexGothic 和 IPAexMincho（或 IPAmjMincho），如果要嵌入该字体的软件或系统有多语言功能则推荐此方法）。原始授权字体可在 [IPA 字体下载页面](http://moji.or.jp/ipafont/ipafontdownload/)获取。
 
 ### 用于网页字体（webfont）
 对于网页字体（webfont），由于 IPA 授权条款对衍生字体的特殊限制，不建议将该字体用于 webfont，因为 webfont 不易使用户将其恢复为原始字体，这样可能会违反 IPA 授权协议（除非网页上有设置类似开关的功能，可以使用户在网页嵌入的字体与本地安装的 IPA 原始字体之间切换）。如果不想设置前述的「开关」，而要将该字体用于 webfont，可参考 [JPAfonts](https://osdn.net/projects/jpafonts/howto/usage) 的使用方法，不过这种方法为了照顾电脑中已经安装了 IPA 字体的用户，会首先调用本机安装的 IPA 字体，如果用户的电脑已经安装了 IPA 原始字体，可能会使中文显示异常。此外，或许可以在网站中说明用户可以利用浏览器插件或 Firefox 的强制全局字体功能自愿更换成原始的 IPA 字体（但是移动端浏览器可能没有类似的功能，因此这种方法比较牵强）。
