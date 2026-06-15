@@ -43,7 +43,7 @@
 ![悠哉字体 / Yozai Font](./images/fontlist/yozai_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/yozai-font)[![releases](https://img.shields.io/github/v/release/lxgw/yozai-font.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/yozai-font/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/5423.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6536.html)
 
-### 「晰致尚铭」系列（IPA 协议）
+### 「晰致尚铭」子系列（IPA 协议）
 
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
@@ -78,7 +78,7 @@
 [![GitHub](https://img.shields.io/badge/obsolete-787777?style=flat-square&logo=github&logoColor=999999)](https://github.com/lxgw/LxgwHeartSerif)[![releases](https://img.shields.io/github/v/release/lxgw/lxgwheartserif.svg?style=flat-square&label=%E6%9C%80%E5%90%8E)](https://github.com/lxgw/lxgwheartserif/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/19277.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6597.html)  
 **停止维护时间：** 2024.09
 
-### 「975」系列（思源衍生）
+### 「975」子系列（思源衍生）
 
 975 黑体 / 975 Hei  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/975Hei)[![releases](https://img.shields.io/github/v/release/lxgw/975Hei.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/975Hei/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/6327.html)  
