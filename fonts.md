@@ -80,11 +80,13 @@
 
 ### 「975」子系列（思源衍生）
 
-975 黑体 / 975 Hei  
+![霞鹜 975 黑体 / LXGW 975 Hei](./images/fontlist/975hei_day.png#gh-light-mode-only)
+![霞鹜 975 黑体 / LXGW 975 Hei](./images/fontlist/975hei_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/975Hei)[![releases](https://img.shields.io/github/v/release/lxgw/975Hei.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/975Hei/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/6327.html)  
 **更多版本** [朦胧黑体](https://github.com/lxgw/975HazyGo)
 
-975 圆体 / 975 Yuan  
+![霞鹜 975 圆体 / LXGW 975 Yuan](./images/fontlist/975yuan_day.png#gh-light-mode-only)
+![霞鹜 975 圆体 / LXGW 975 Yuan](./images/fontlist/975yuan_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/975Yuan)[![releases](https://img.shields.io/github/v/release/lxgw/975Yuan.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/975Yuan/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/6339.html)
 
 ### 中英文合并字体
