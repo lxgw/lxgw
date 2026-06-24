@@ -4,6 +4,8 @@
 > - 鉴于各大手机品牌主题商店只对企业开放字体上传权限，少数对个人开放字体权限的也需要版权登记证明（这里面可能涉及开源二创的著作权归属问题），如果您希望在手机主题商店上使用这些字体，则请您放下这个执念，选用默认字体或主题商店的其他字体。
 
 # 「霞鹜系列开源字体」一览表
+（含早期手写风格字体《小赖字体》《悠哉字体》）
+
 列表更新时间：2026/06/24
 
 ## 字体列表
@@ -87,7 +89,7 @@
 ![霞鹜 975 圆体 / LXGW 975 Yuan](./images/fontlist/975yuan_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/975Yuan)[![releases](https://img.shields.io/github/v/release/lxgw/975Yuan.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/975Yuan/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/6339.html)
 
-### 未冠名「霞鹜」的早期手写字体
+### 未冠名「霞鹜」的早期手写风格字体
 
 ![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_day.png#gh-light-mode-only)
 ![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_night.png#gh-dark-mode-only)  
