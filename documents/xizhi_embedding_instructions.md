@@ -46,7 +46,11 @@ To replace this font with the original IPA font, please get the original font fr
 - 如果用户界面只是指导用户手动替换字体，则不需要再嵌入原始字体，但需要指导用户如何下载 IPA 原始字体（原始授权字体可在 [IPA 字体下载页面](http://moji.or.jp/ipafont/ipafontdownload/)获取）。
 
 ### 方案三：与原始字体一同嵌入
-再或者，如果存储空间允许，则可以与 IPA 原始授权字体共同嵌入，便于用户自行切换或者分语言调用（例如当系统语言为简体中文时，优先调用「霞鹜新晰黑」和「霞鹜新致宋」，繁体中文优先调用「霞鹜晰黑 MN」和「霞鹜致宋 MN」，日文则优先调用原始授权字体 IPAexGothic 和 IPAexMincho（或 IPAmjMincho），如果要嵌入该字体的软件或系统有多语言功能则推荐此方法）。原始授权字体可在 [IPA 字体下载页面](http://moji.or.jp/ipafont/ipafontdownload/)获取。
+再或者，如果存储空间允许，则可以与 IPA 原始授权字体共同嵌入，便于用户自行切换或者分语言调用（例如当系统语言为简体中文时，优先调用「霞鹜新晰黑」和「霞鹜新致宋」，繁体中文优先调用「霞鹜晰黑 MN」和「霞鹜致宋 MN」，日文则优先调用原始授权字体 IPAexGothic 和 IPAexMincho（或 IPAmjMincho），如果要嵌入该字体的软件或系统有多语言功能则推荐此方法）。
+
+**需注意：** IPA 原始字体为日文字体，其中文字形与中文字体存在差异，因此建议仅在日文语言环境下调用，以确保最佳显示效果。
+
+原始授权字体可在 [IPA 字体下载页面](http://moji.or.jp/ipafont/ipafontdownload/)获取。
 
 ### 用于网页字体（webfont）
 不建议将该字体用于 webfont。因为网页环境下很难为所有用户（尤其是移动端用户）提供一个始终可用且对普通用户友好的原生界面，来执行「恢复原始 IPA 字体」的操作，而这是 IPA 协议再分发条款中的强制性义务。
