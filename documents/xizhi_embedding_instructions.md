@@ -7,15 +7,17 @@
 > - [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
 > - [霞鹜尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic)
 > - [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif)
-> - 霞鹜新晰黑、霞鹜新致宋的分支版本
+> - 霞鹜（新）晰黑、霞鹜（新）致宋的分支版本
 >   - [融合版 / -Fusion](https://github.com/lxgw/LXGWNeoXiZhi-Fusion)
 >   - [屏幕阅读版 / -Screen](https://github.com/lxgw/LXGWNeoXiZhi-Screen)
 >   - [新晰黑体＆新致宋体 / SimXiHei & SimZhiSong](https://github.com/lxgw/SimXiZhi)
+>   - [Ｂ５晰黑体＆Ｂ５致明体 / B5XiHei & B5ZhiMing](https://github.com/lxgw/B5XiZhi)
 >   - [新晰黑 Code / NeoXiHei Code](https://github.com/lxgw/NeoXiHei-Code)
+>   - [霞鹜新晰黑 繁 / LXGW Neo XiHei TC](https://github.com/lxgw/LxgwNeoXiHei)（660 字测试版）
 >
 > 上述字体统称为「晰致尚铭」字体系列，「晰致尚铭」四个字分别选取自「霞鹜（新）**晰**黑」「霞鹜（新）**致**宋」「霞鹜**尚**智黑」「霞鹜**铭**心宋」字体的名称。以此命名既体现了对原项目的致意，也满足了 IPA 协议关于衍生字体不得使用「IPA」名称的要求。
 >
-> 本须知内容针对的是对上述字体构成再分发的各类嵌入式应用，如应用程序（iOS、Android、HarmonyOS、Windows、macOS、Linux 等）、硬件设备（电子屏显、电子辞典、打印机、机顶盒、导航仪、SoC 芯片等）、网页、H5 应用、小程序、音像制品嵌入等。如果是将上述字体用于出版物设计，或嵌入于 PDF、Word、PowerPoint 等文档中，则本须知的后续内容**可能不适用**。根据 [IPA 字体授权许可协议](https://moji.or.jp/ipafont/license/)，在 PDF 等数字文档中嵌入以显示或打印内容，属于协议明确允许的「嵌入式字体」用途，可以自由分发此类文档，并可用于商业或非商业用途。但需注意，若从这类文档中提取字体信息来创建新的字体程序（Derived Program），则新字体仍需遵守 IPA 协议。
+> 本须知内容针对的是对上述字体构成再分发的各类嵌入式应用，如应用程序（iOS、Android、HarmonyOS、Windows、macOS、Linux 等）、搭载上述操作系统的硬件设备（如电子屏显、电子辞典、打印机、机顶盒、导航仪等）、网页、H5 应用、小程序、音像制品嵌入等。如果是将上述字体用于出版物设计，或嵌入于 PDF、Word、PowerPoint 等文档中，则本须知内容**不适用**。根据 [IPA 字体授权许可协议](https://moji.or.jp/ipafont/license/)，在 PDF 等数字文档中嵌入以显示或打印内容，属于协议明确允许的「嵌入式字体」用途，可以自由分发此类文档，并可用于商业或非商业用途。但需注意，若从这类文档中提取字体信息来创建新的字体程序（Derived Program），则新字体仍需遵守 IPA 协议。
 >
 > 本文档旨在帮助用户理解相关许可证的合规要求，内容基于个人对授权条款的理解整理，仅供信息参考，不构成法律建议。如有不准确、不严谨之处，或需要补充的内容，欢迎通过 Issue 反馈。涉及具体法律问题时，请务必咨询专业律师。
 
@@ -24,9 +26,7 @@
 
 如果您要将「晰致尚铭」系列字体（下称「该字体」）用于 APP（包括游戏）、硬件操作系统、网页等各类嵌入式应用，为了满足 IPA 字体授权协议及其 FAQ 文件规定的条款和条件，请阅读以下「嵌入指引」。
 ## 嵌入指引
-如果您要将该字体嵌入于 APP、硬件设备操作系统或网页等，请在 APP、操作系统或网站的「开源许可」页面中针对该字体附上 [IPA Font License 1.0](https://opensource.org/license/ipafont-html) 全文或 URL（https://opensource.org/licenses/ipa 或 https://moji.or.jp/ipafont/license ）。
-
-> ㊟　OFL 字体在与应用程序捆绑时，同样需要附带 OFL 全文。
+如果您要将该字体嵌入于 APP、硬件设备操作系统或网页等，请在 APP、操作系统或网站的「开源许可」页面中针对该字体附上 [IPA Font License 1.0](https://opensource.org/license/ipafont-html) 全文或 URL（https://opensource.org/licenses/ipa 或 https://moji.or.jp/ipafont/license ）。[^1]
 
 此外，还需要提供一种方法，让用户按照自己的意愿将该字体恢复到 IPA 原始授权字体，以满足 IPA 字体授权协议及其 FAQ 文件的相关规定。以下是一些具体的解决方案，可供参考或选择：
 
@@ -40,8 +40,10 @@ To replace this font with the original IPA font, please get the original font fr
 
 也可在 APP 或操作系统的帮助文档中增加恢复字体的方法说明（可以是全文，也可以是链接到字体恢复方法内容的 URL）。
 ### 方案二：提供恢复原始字体的用户界面
-或者，提供一个用户界面来引导用户将该字体替换回原始字体，这样更符合 IPA 授权条款 FAQ 中关于衍生字体与信息设备或装置捆绑再分发的规定（如果是类似下图一键恢复原始字体的界面，或者是切换界面字体的开关，则可能需要将该字体和原始字体共同嵌入，或者需要具备联网下载和解压原始字体的功能；如果用户界面只是指导用户手动替换字体，则不需要再嵌入原始字体）。
-![pk53CFA.png](https://s21.ax1x.com/2024/07/14/pk53CFA.png)
+或者，提供一个用户界面来引导用户将该字体替换回原始字体，这样更符合 IPA 授权条款 FAQ 中关于衍生字体与信息设备或装置捆绑再分发的规定。。
+- 如果是提供一键将衍生字体替换为原始 IPA 字体的功能（类似下图），或提供字体切换开关让用户在衍生字体与原始字体之间选择，则需将原始 IPA 字体一并嵌入，或具备联网下载原始字体的能力。
+  ![pk53CFA.png](https://s21.ax1x.com/2024/07/14/pk53CFA.png)
+- 如果用户界面只是指导用户手动替换字体，则不需要再嵌入原始字体，但需要指导用户如何下载 IPA 原始字体（原始授权字体可在 [IPA 字体下载页面](http://moji.or.jp/ipafont/ipafontdownload/)获取）。
 
 ### 方案三：与原始字体一同嵌入
 再或者，如果存储空间允许，则可以与 IPA 原始授权字体共同嵌入，便于用户自行切换或者分语言调用（例如当系统语言为简体中文时，优先调用「霞鹜新晰黑」和「霞鹜新致宋」，繁体中文优先调用「霞鹜晰黑 MN」和「霞鹜致宋 MN」，日文则优先调用原始授权字体 IPAexGothic 和 IPAexMincho（或 IPAmjMincho），如果要嵌入该字体的软件或系统有多语言功能则推荐此方法）。原始授权字体可在 [IPA 字体下载页面](http://moji.or.jp/ipafont/ipafontdownload/)获取。
@@ -64,3 +66,5 @@ To replace this font with the original IPA font, please get the original font fr
 > 「原始状态」是指由 IPA 直接发布的 IPA 字体。在「衍生程序再分发」的情况下，应当提供一种方法，让衍生程序的用户能够从衍生程序恢复到 IPA 字体的原始状态。对于与信息设备或装置捆绑的情况，恢复方法无所谓，但需要提供一个用户界面引导用户恢复到原始的 IPA 字体。对于单独再分发衍生程序的情况，恢复方法也无所谓，但需要明确指出这个方法，使用户可以自愿中止使用衍生程序，恢复到原始的 IPA 字体。至于恢复的「方法」，如果用户已经有了可以轻易获得的方法，比如操作系统已有的功能，那么衍生程序的发行者就不必再提供这种方法。如果没有这种现成的方法，衍生程序的发行者就有必要提供。用户在使用衍生程序时无法自愿恢复到原始状态 IPA 字体的，该衍生程序禁止再分发。
 --- 
 本文内容采用[「知识共享 署名-非商业性使用-相同方式共享 4.0 国际版许可协议」](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)，作者 [lxgw](https://github.com/lxgw)。
+
+[^1]: 其他许可证如 SIL OFL 1.1 亦有类似要求，具体请参阅相应许可证条款。
