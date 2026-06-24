@@ -45,7 +45,7 @@
 
 ### 「晰致尚铭」子系列（IPA 协议）
 > [!IMPORTANT]
-> 由于 IPA 协议针对衍生字体再分发有特殊限制条件，在将本组字体用于嵌入式用途时，请[自行评估合规成本](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)。
+> 由于 IPA 协议针对衍生字体再分发有特殊限制条件，如需要将本组字体用于嵌入式用途（包括应用软件、硬件操作系统、游戏、网站等嵌入用途，**不包括** PDF 等数字文档嵌入），请[自行评估合规成本](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)。
 
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_day.png#gh-light-mode-only)
 ![霞鹜新晰黑 / LXGW Neo XiHei](./images/fontlist/lxgwnxh_night.png#gh-dark-mode-only)  
