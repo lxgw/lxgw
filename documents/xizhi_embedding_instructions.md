@@ -1,19 +1,19 @@
 > [!NOTE]
 > 本须知内容适用于以下字体：
 >
-> - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
-> - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
+> - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)（含 Plus）
+> - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)（含 Plus）
 > - [霞鹜晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
 > - [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
 > - [霞鹜尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic)
 > - [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif)
 > - 霞鹜（新）晰黑、霞鹜（新）致宋的分支版本
->   - [融合版 / -Fusion](https://github.com/lxgw/LXGWNeoXiZhi-Fusion)
+>   - [融合版 / -Fusion](https://github.com/lxgw/LXGWNeoXiZhi-Fusion)（已于 Plus 版首次发布后停止维护）
 >   - [屏幕阅读版 / -Screen](https://github.com/lxgw/LXGWNeoXiZhi-Screen)
 >   - [新晰黑体＆新致宋体 / SimXiHei & SimZhiSong](https://github.com/lxgw/SimXiZhi)
 >   - [Ｂ５晰黑体＆Ｂ５致明体 / B5XiHei & B5ZhiMing](https://github.com/lxgw/B5XiZhi)
 >   - [新晰黑 Code / NeoXiHei Code](https://github.com/lxgw/NeoXiHei-Code)
->   - [霞鹜新晰黑 繁 / LXGW Neo XiHei TC](https://github.com/lxgw/LxgwNeoXiHeiTC)（660 字测试版）
+>   - [霞鹜新晰黑 繁 / LXGW Neo XiHei TC](https://github.com/lxgw/LxgwNeoXiHeiTC)（660 字先行测试版，已放弃）
 >
 > 上述字体统称为「晰致尚铭」字体系列，「晰致尚铭」四个字分别选取自「霞鹜（新）**晰**黑」「霞鹜（新）**致**宋」「霞鹜**尚**智黑」「霞鹜**铭**心宋」字体的名称。以此命名既体现了对原项目的致意，也满足了 IPA 协议关于衍生字体不得使用「IPA」名称的要求。
 >
