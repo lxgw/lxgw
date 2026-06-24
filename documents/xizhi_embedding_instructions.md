@@ -67,7 +67,7 @@ To replace this font with the original IPA font, please get the original font fr
 2. **参考 JPAfonts 的使用方法：** 可参考 [JPAfonts](https://osdn.net/projects/jpafonts/howto/usage) 的做法——通过 CSS `@font-face` 的 `local()` 函数，优先调用用户本地已安装的 IPA 字体。但需注意：这种方法的目的是照顾电脑中已经安装了 IPA 字体的用户，会首先调用本机安装的 IPA 字体。如果用户的电脑已经安装了 IPA 原始字体，可能会使中文显示异常（因为 IPA 字体是日文字体，其中文字形可能与预期不符）。
 3. **提供用户自行替换的指引：** 在网站中说明用户可以利用浏览器插件（如 Stylus）、Firefox 的强制全局字体，或 Via 浏览器自定义字体功能，自愿将网页字体更换成原始的 IPA 字体。但此方法较为牵强，普通用户的操作门槛也较高。
 ### 选用其他授权许可的字体
-最后，如果不是特别需要嵌入「晰致尚铭」字体，或者对 IPA 字体授权许可条款仍然不能理解，或无法接受 IPA 衍生字体使用的合规成本，建议选用 SIL Open Font License 1.1、Apache License 2.0 等对衍生字体再分发限制较少的授权许可下发行的字体〔如「思源」系列（含宋体、黑体）、「霞鹜文楷」等 OFL 1.1 字体，或 Droid Sans Fallback 等 Apache License 2.0 字体〕，对字体的嵌入式应用更友好。
+最后，如果不是特别需要嵌入「晰致尚铭」字体，或者对 IPA 字体授权许可条款仍然不能理解，或**无法接受** IPA 衍生字体使用的合规成本，建议选用 SIL Open Font License 1.1、Apache License 2.0 等对衍生字体再分发限制较少的授权许可下发行的字体〔如「思源」系列（含宋体、黑体）、「霞鹜文楷」等 OFL 1.1 字体，或 Droid Sans Fallback 等 Apache License 2.0 字体〕，对字体的嵌入式应用更友好。
 
 > ### 附：IPA 字体授权协议常见问题解答 §3.3.2 原文及译文
 > > #### 3.3.2 利用者が、その意志により、派生プログラムをオリジナルのIPAフォントに戻せる方法を提供しなければならない。
