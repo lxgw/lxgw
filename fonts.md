@@ -53,6 +53,7 @@
 **更多版本** [屏幕阅读版](https://github.com/lxgw/LxgwNeoXiZhi-Screen)
 [新晰黑体](https://github.com/lxgw/SimXiZhi)
 [Code版](https://github.com/lxgw/NeoXiHei-Code)
+[台标测试](https://github.com/lxgw/LxgwNeoXiHeiTC)
 
 ![霞鹜新致宋 / LXGW Neo ZhiSong](./images/fontlist/lxgwnzs_day.png#gh-light-mode-only)
 ![霞鹜新致宋 / LXGW Neo ZhiSong](./images/fontlist/lxgwnzs_night.png#gh-dark-mode-only)  
