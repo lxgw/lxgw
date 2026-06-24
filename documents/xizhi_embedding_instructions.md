@@ -13,7 +13,7 @@
 >   - [新晰黑体＆新致宋体 / SimXiHei & SimZhiSong](https://github.com/lxgw/SimXiZhi)
 >   - [Ｂ５晰黑体＆Ｂ５致明体 / B5XiHei & B5ZhiMing](https://github.com/lxgw/B5XiZhi)
 >   - [新晰黑 Code / NeoXiHei Code](https://github.com/lxgw/NeoXiHei-Code)
->   - [霞鹜新晰黑 繁 / LXGW Neo XiHei TC](https://github.com/lxgw/LxgwNeoXiHei)（660 字测试版）
+>   - [霞鹜新晰黑 繁 / LXGW Neo XiHei TC](https://github.com/lxgw/LxgwNeoXiHeiTC)（660 字测试版）
 >
 > 上述字体统称为「晰致尚铭」字体系列，「晰致尚铭」四个字分别选取自「霞鹜（新）**晰**黑」「霞鹜（新）**致**宋」「霞鹜**尚**智黑」「霞鹜**铭**心宋」字体的名称。以此命名既体现了对原项目的致意，也满足了 IPA 协议关于衍生字体不得使用「IPA」名称的要求。
 >
