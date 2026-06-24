@@ -34,15 +34,6 @@
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/lxgwzk_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwZhenKai)[![releases](https://img.shields.io/github/v/release/lxgw/lxgwzhenkai.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/lxgwzhenkai/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/14773.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6535.html)  
 
-
-![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_day.png#gh-light-mode-only)
-![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_night.png#gh-dark-mode-only)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/kose-font)[![releases](https://img.shields.io/github/v/release/lxgw/kose-font.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/kose-font/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/4306.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6572.html)
-
-![悠哉字体 / Yozai Font](./images/fontlist/yozai_day.png#gh-light-mode-only)
-![悠哉字体 / Yozai Font](./images/fontlist/yozai_night.png#gh-dark-mode-only)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/yozai-font)[![releases](https://img.shields.io/github/v/release/lxgw/yozai-font.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/yozai-font/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/5423.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6536.html)
-
 ### 「晰致尚铭」子系列（IPA 协议）
 > [!IMPORTANT]
 > 由于 IPA 协议针对衍生字体再分发有特殊限制条件，如需要将本组字体用于嵌入式用途（包括应用软件、硬件操作系统、游戏、网站等嵌入用途，**不包括** PDF 等数字文档嵌入），请[自行评估合规成本](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)。
@@ -91,6 +82,16 @@
 ![霞鹜 975 圆体 / LXGW 975 Yuan](./images/fontlist/975yuan_day.png#gh-light-mode-only)
 ![霞鹜 975 圆体 / LXGW 975 Yuan](./images/fontlist/975yuan_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/975Yuan)[![releases](https://img.shields.io/github/v/release/lxgw/975Yuan.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/975Yuan/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/6339.html)
+
+### 未冠名「霞鹜」的早期手写字体
+
+![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_day.png#gh-light-mode-only)
+![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_night.png#gh-dark-mode-only)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/kose-font)[![releases](https://img.shields.io/github/v/release/lxgw/kose-font.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/kose-font/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/4306.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6572.html)
+
+![悠哉字体 / Yozai Font](./images/fontlist/yozai_day.png#gh-light-mode-only)
+![悠哉字体 / Yozai Font](./images/fontlist/yozai_night.png#gh-dark-mode-only)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/yozai-font)[![releases](https://img.shields.io/github/v/release/lxgw/yozai-font.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/yozai-font/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/5423.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6536.html)
 
 ### 中英文合并字体
 
