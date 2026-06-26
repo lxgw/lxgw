@@ -109,6 +109,10 @@
 ![LXGW Bright Code](./images/fontlist/lxgwbrcd_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/lxgwbright-code)[![releases](https://img.shields.io/github/v/release/lxgw/lxgwbright-code.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/lxgwbright-code/releases/latest)
 
+### 后续开源字体计划
+
+![霞鹜贺年小篆 / LXGW Seal](./images/fontlist/lxgwseal_day.png#gh-light-mode-only)
+![霞鹜贺年小篆 / LXGW Seal](./images/fontlist/lxgwseal_night.png#gh-dark-mode-only)  
 
 > ㊟
 > 预览图中「IPA/OFL」授权许可标签下方的年月时间为该字体的首次发布时间。
