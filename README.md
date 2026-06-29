@@ -1,4 +1,4 @@
-
+简体中文 | [English](./README-EN.md)
 <div align="center">
 
 <img src="images/lxgw-logo.svg" width = "128" height = "128" align=center /> </br>
