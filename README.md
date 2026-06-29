@@ -14,7 +14,6 @@
 [永硕Ｅ盘 / YsEpan](http://lxgw.ysepan.com)  
 [外字初步整理一览表](https://github.com/lxgw/ext-characters)  
 [CJK 字体 Magisk 模块模板](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)  
-[耻辱柱 / Hall of Shame](https://github.com/lxgw/lxgw/blob/main/documents/hall_of_shame.md)  
 [打赏 / Donate](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 ### 关注方式 / Follow
 [![Telegram](https://img.shields.io/badge/lxgwtg-blue?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/lxgwtg)
@@ -49,3 +48,5 @@
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 
 -->
+
+开源环境需要大家共同维护。对于严重违反开源协议的行为，本人保留公开[记录](https://github.com/lxgw/lxgw/blob/main/documents/hall_of_shame.md)的权利。
