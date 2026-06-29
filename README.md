@@ -8,13 +8,13 @@
 [~~开源字体一览（表格版）~~](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)<sup>过时 / deprecated</sup>  
 [开源字体一览（图文版）](https://github.com/lxgw/lxgw/blob/main/fonts.md)  
 
-<!--[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)-->
+[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)
 
-[耻辱柱 / Hall of Shame](https://github.com/lxgw/lxgw/blob/main/documents/hall_of_shame.md)  
 [~~个人博客 / Blog~~](https://lxgw.github.io) <sup>过时 / deprecated</sup>  
 [永硕Ｅ盘 / YsEpan](http://lxgw.ysepan.com)  
 [外字初步整理一览表](https://github.com/lxgw/ext-characters)  
 [CJK 字体 Magisk 模块模板](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)  
+[耻辱柱 / Hall of Shame](https://github.com/lxgw/lxgw/blob/main/documents/hall_of_shame.md)  
 [打赏 / Donate](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 ### 关注方式 / Follow
 [![Telegram](https://img.shields.io/badge/lxgwtg-blue?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/lxgwtg)
