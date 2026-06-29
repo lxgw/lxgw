@@ -1,3 +1,4 @@
+[简体中文](./README.md) | English
 <div align="center">
 
 <h1>
