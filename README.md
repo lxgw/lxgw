@@ -10,6 +10,7 @@
 
 <!--[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)-->
 
+[耻辱柱 / Hall of Shame](https://github.com/lxgw/lxgw/blob/main/documents/hall_of_shame.md)  
 [~~个人博客 / Blog~~](https://lxgw.github.io) <sup>久未更新 / deprecated</sup>  
 [永硕Ｅ盘 / YsEpan](http://lxgw.ysepan.com)  
 [外字初步整理一览表](https://github.com/lxgw/ext-characters)  
