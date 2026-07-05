@@ -4,7 +4,7 @@
 > - 各大手机品牌主题商店通常仅对**企业**开放字体上传权限。少数允许个人上传的商店，也要求提供**版权登记证明**（开源二创字体的著作权归属可能存在争议）。因此，若您希望在主题商店使用这些字体，建议您选用默认字体或商店内其他已授权字体。
 
 # 霞鹜开源字体一览表
-（含早期手写风格字体《小赖字体》《悠哉字体》，不含手机美化字体[《黑糖话梅》](https://github.com/lxgw/BlackSugarPlumCandy)）
+含早期手写风格字体《小赖字体》《悠哉字体》，以及西文衍生字体 SlabMod 和 XiHei Partner；不含手机美化字体[《黑糖话梅》](https://github.com/lxgw/BlackSugarPlumCandy)。
 
 列表更新时间：2026/07/05
 
@@ -89,6 +89,12 @@
 ![霞鹜 975 圆体 / LXGW 975 Yuan](./images/fontlist/975yuan_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/975Yuan)[![releases](https://img.shields.io/github/v/release/lxgw/975Yuan.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/975Yuan/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/6339.html)
 
+### 特定使用场景字体
+
+![霞鹜贺年小篆 / LXGW Seal](./images/fontlist/lxgwseal_day.png#gh-light-mode-only)
+![霞鹜贺年小篆 / LXGW Seal](./images/fontlist/lxgwseal_night.png#gh-dark-mode-only)  
+《霞鹜贺年小篆》已有计划，但尚未建立项目仓库。
+
 ### 未冠名「霞鹜」的早期手写风格字体
 
 ![小赖字体 / Xiaolai Font](./images/fontlist/xiaolai_day.png#gh-light-mode-only)
@@ -98,12 +104,6 @@
 ![悠哉字体 / Yozai Font](./images/fontlist/yozai_day.png#gh-light-mode-only)
 ![悠哉字体 / Yozai Font](./images/fontlist/yozai_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/yozai-font)[![releases](https://img.shields.io/github/v/release/lxgw/yozai-font.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/yozai-font/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/5423.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6536.html)
-
-### 特定使用场景字体
-
-![霞鹜贺年小篆 / LXGW Seal](./images/fontlist/lxgwseal_day.png#gh-light-mode-only)
-![霞鹜贺年小篆 / LXGW Seal](./images/fontlist/lxgwseal_night.png#gh-dark-mode-only)  
-《霞鹜贺年小篆》已有计划，但尚未建立项目仓库。
 
 ### 中英文合并字体
 
