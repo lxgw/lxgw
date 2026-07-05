@@ -40,7 +40,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwMarkerGothic)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwMarkerGothic.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwMarkerGothic/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/4306.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6530.html)
 [![Google Fonts](https://shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=ffffff)](https://fonts.google.com/specimen/LXGW+Marker+Gothic)
 
-### 「晰致尚铭」子系列（IPA 协议）
+### 「晰致尚铭」系列（IPA 协议）
 > [!IMPORTANT]
 > 由于 IPA 协议针对衍生字体再分发有特殊限制条件，如需要将本组字体用于嵌入式用途（包括应用软件、硬件操作系统、游戏、网站等嵌入用途，**不包括** PDF 等数字文档嵌入），请[自行评估合规成本](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)。
 
@@ -78,7 +78,7 @@
 [![GitHub](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-787777?style=flat-square&logo=github&logoColor=999999)](https://github.com/lxgw/LxgwHeartSerif)[![releases](https://img.shields.io/github/v/release/lxgw/lxgwheartserif.svg?style=flat-square&label=%E6%9C%80%E5%90%8E)](https://github.com/lxgw/lxgwheartserif/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/19277.html) [![zijia](https://shields.io/badge/%E5%AD%97%E5%8A%A0-ffe02b?style=flat-square&label=%E2%9E%94)](https://www.zijia.com.cn/6597.html)  
 **停止维护时间** 2024.09
 
-### 「975」子系列（思源衍生）
+### 「975」系列（思源衍生）
 
 ![霞鹜 975 黑体 / LXGW 975 Hei](./images/fontlist/975hei_day.png#gh-light-mode-only)
 ![霞鹜 975 黑体 / LXGW 975 Hei](./images/fontlist/975hei_night.png#gh-dark-mode-only)  
