@@ -1,16 +1,16 @@
-
+简体中文 | [English](./README-EN.md)
 <div align="center">
 
 <img src="images/lxgw-logo.svg" width = "128" height = "128" align=center /> </br>
 <img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+GB&pause=1000&color=2979FF&center=true&width=400&height=50&lines=%E8%90%BD%E9%9C%9E%E4%B8%8E%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E%EF%BC%8C%E7%A7%8B%E6%B0%B4%E5%85%B1%E9%95%BF%E5%A4%A9%E4%B8%80%E8%89%B2%E3%80%82" alt="Typing SVG" />
 ---
   
-[~~开源字体一览（表格版）~~](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)<sup>久未更新 / deprecated</sup>  
+[~~开源字体一览（表格版）~~](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)<sup>过时 / deprecated</sup>  
 [开源字体一览（图文版）](https://github.com/lxgw/lxgw/blob/main/fonts.md)  
 
-<!--[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)-->
+[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)
 
-[~~个人博客 / Blog~~](https://lxgw.github.io) <sup>久未更新 / deprecated</sup>  
+[~~个人博客 / Blog~~](https://lxgw.github.io) <sup>过时 / deprecated</sup>  
 [永硕Ｅ盘 / YsEpan](http://lxgw.ysepan.com)  
 [外字初步整理一览表](https://github.com/lxgw/ext-characters)  
 [CJK 字体 Magisk 模块模板](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)  
@@ -48,3 +48,5 @@
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 
 -->
+
+开源环境需要大家共同维护。对于严重违反开源协议的行为，本人保留公开[记录](https://github.com/lxgw/lxgw/blob/main/documents/hall_of_shame.md)的权利。
