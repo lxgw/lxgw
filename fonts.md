@@ -91,9 +91,9 @@
 
 ### 特定使用场景字体
 
-![霞鹜贺年小篆 / LXGW Seal](./images/fontlist/lxgwseal_day.png#gh-light-mode-only)
-![霞鹜贺年小篆 / LXGW Seal](./images/fontlist/lxgwseal_night.png#gh-dark-mode-only)  
-《霞鹜贺年小篆》已有计划，但尚未建立项目仓库。
+![霞鹜篆书 / LXGW Seal](./images/fontlist/lxgwseal_day.png#gh-light-mode-only)
+![霞鹜篆书 / LXGW Seal](./images/fontlist/lxgwseal_night.png#gh-dark-mode-only)  
+《霞鹜篆书》已有计划，但尚未建立项目仓库。
 
 ### 未冠名「霞鹜」的早期手写风格字体
 
