@@ -4,7 +4,7 @@
 > - 各大手机品牌主题商店通常仅对**企业**开放字体上传权限。少数允许个人上传的商店，也要求提供**版权登记证明**（开源二创字体的著作权归属可能存在争议）。因此，若您希望在主题商店使用这些字体，建议您选用默认字体或商店内其他已授权字体。
 
 # 霞鹜开源字体一览表
-含早期手写风格字体《小赖字体》《悠哉字体》，以及西文衍生字体 SlabMod 和 XiHei Partner；不含手机美化字体[《黑糖话梅》](https://github.com/lxgw/BlackSugarPlumCandy)。
+含早期手写风格字体《小赖字体》《悠哉字体》，以及西文衍生字体 SlabMod 和 XiHei Partner；不含手机美化字体[《黑糖话梅》](https://github.com/lxgw/BlackSugarPlumCandy)和 0BSD 许可字体[《繁梅字体》](https://github.com/lxgw/Fanmei)。
 
 列表更新时间：2026/07/05
 
