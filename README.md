@@ -49,4 +49,4 @@
 
 -->
 
-开源环境需要大家共同维护。对于严重违反开源协议的行为，本人保留公开[记录](https://github.com/lxgw/lxgw/blob/main/documents/hall_of_shame.md)的权利。
+开源环境需要大家共同维护。对于严重违反开源协议的行为，本人保留公开[记录](https://github.com/lxgw/lxgw/blob/main/documents/breach_record.md)的权利。
