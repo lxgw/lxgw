@@ -32,4 +32,4 @@
 [![](https://img.shields.io/badge/calxgw2018-%40gmail.com-indianred?style=flat-square)](mailto:calxgw2018@gmail.com)
 [![](https://img.shields.io/badge/srtong2006-%40126.com-forestgreen?style=flat-square)](mailto:srtong2006@126.com) 
 
-To uphold the open-source ecosystem, I reserve the right to publicly record [serious violations](https://github.com/lxgw/lxgw/blob/main/documents/hall_of_shame.md) of open-source licenses.
+To uphold the open-source ecosystem, I reserve the right to publicly record [serious violations](https://github.com/lxgw/lxgw/blob/main/documents/breach_record.md) of open-source licenses.
