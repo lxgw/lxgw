@@ -7,7 +7,7 @@
 > - [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
 > - [霞鹜尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic)
 > - [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif)
-> - 附属版本
+> - 附属项目（均已归档，不再随主项目更新）
 >   - [融合版 / -Fusion](https://github.com/lxgw/LXGWNeoXiZhi-Fusion)（已于 Plus 版首次发布后停止维护）
 >   - [屏幕阅读版 / -Screen](https://github.com/lxgw/LXGWNeoXiZhi-Screen)
 >   - [新晰黑体＆新致宋体 / SimXiHei & SimZhiSong](https://github.com/lxgw/SimXiZhi)
