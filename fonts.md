@@ -3,7 +3,13 @@
 > - 近来发现，众多开源字体（包括本人改造的字体）在淘宝、小红书等平台被不法商家倒卖，违反了 SIL OFL 1.1 或 IPA 协议相关条款。如您遇到此类店铺贩售下列字体，**请不要购买！** 您支付的款项**不会**流向作者，您也**无法**获得任何更新或支持。
 > - 各大手机品牌主题商店通常仅对**企业**开放字体上传权限。少数允许个人上传的商店，也要求提供**版权登记证明**（开源二创字体的著作权归属可能存在争议）。因此，若您希望在主题商店使用这些字体，建议您选用默认字体或商店内其他已授权字体。
 
-# 霞鹜开源字体一览表
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/osf-logo/lxgwosf-sc-night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/osf-logo/lxgwosf-sc-day.svg" />
+  <img alt="霞鹜开源字体" src="./images/osf-logo/lxgwosf-sc-day.svg" />
+<h1>一　　览　　表</h1>
+</div>
 
 > [!NOTE]
 > - 含早期手写风格字体《小赖字体》《悠哉字体》，以及西文衍生字体 SlabMod 和 XiHei Partner。
