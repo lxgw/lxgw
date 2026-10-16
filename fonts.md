@@ -7,7 +7,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/osf-logo/lxgwosf-sc-night.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./images/osf-logo/lxgwosf-sc-day.svg" />
-  <img alt="霞鹜开源字体" src="./images/osf-logo/lxgwosf-sc-day.svg" />
+  <img alt="霞鹜开源字体" src="./images/osf-logo/lxgwosf-sc-day.svg#gh-light-mode-only" />
+  <img alt="霞鹜开源字体" src="./images/osf-logo/lxgwosf-sc-day.svg#gh-dark-mode-only" />
 <h1>一　　览　　表</h1>
 </div>
 
