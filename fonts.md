@@ -35,7 +35,6 @@
 ![霞鹜文楷 TC / LXGW WenKai TC](./images/fontlist/lxgwwktc_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/LxgwWenKaiTC)[![releases](https://img.shields.io/github/v/release/lxgw/LxgwWenKaiTC.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/LxgwWenKaiTC/releases/latest) [![maoken](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.maoken.com/freefonts/16424.html)
 [![Google Fonts](https://shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=ffffff)](https://fonts.google.com/specimen/LXGW+WenKai+TC)  
-**更多版本** [한글판](https://github.com/lxgw/LxgwWenKaiKR)
 
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/lxgwzk_day.png#gh-light-mode-only)
 ![霞鹜臻楷 / LXGW ZhenKai](./images/fontlist/lxgwzk_night.png#gh-dark-mode-only)  
@@ -125,6 +124,16 @@
 ![LXGW Bright Code](./images/fontlist/lxgwbrcd_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/lxgwbright-code)[![releases](https://img.shields.io/github/v/release/lxgw/lxgwbright-code.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/lxgwbright-code/releases/latest)
 
+### 韩文/朝鲜文字体
+
+![LXGW 문해 KR](./images/fontlist/lxgwwkkr_day.png#gh-light-mode-only)
+![LXGW 문해 KR](./images/fontlist/lxgwwkkr_night.png#gh-dark-mode-only)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/lxgwwenkaikr)[![releases](https://img.shields.io/github/v/release/lxgw/lxgwwenkaikr.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/lxgwwenkaikr/releases/latest)
+
+![LXGW 마커고딕 KR](./images/fontlist/lxgwmgkr_day.png#gh-light-mode-only)
+![LXGW 마커고딕 KR](./images/fontlist/lxgwmgkr_night.png#gh-dark-mode-only)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/lxgwmarkergothickr)[![releases](https://img.shields.io/github/v/release/lxgw/lxgwmarkergothickr.svg?style=flat-square&label=%E6%9C%80%E6%96%B0)](https://github.com/lxgw/lxgwmarkergothickr-code/releases/latest)
+
 ### 西文衍生字体
 
 ![SlabMod](./images/fontlist/slabmod_day.png#gh-light-mode-only)
@@ -134,6 +143,7 @@
 ![XiHei Partner](./images/fontlist/xpartner_day.png#gh-light-mode-only)
 ![XiHei Partner](./images/fontlist/xpartner_night.png#gh-dark-mode-only)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lxgw/xiheipartner)
+
 
 ## 许可协议官方入口
 
