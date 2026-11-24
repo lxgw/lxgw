@@ -24,6 +24,7 @@
 > 5. 截至 2026 年 8 月，当事人未修改衍生字体名称，未撤回或说明其言论。双方沟通已终止，本条目不再更新。
 
 ### 售卖字体
+#### 单款贩售
 > [!NOTE]
 > 此类贩售单款字体的行为违反以下条款：
 > - **OFL 1.1「许可与条件」第 1 条**规定，**字体文件本身不能作为独立的商品被售卖**；
@@ -33,11 +34,12 @@
 - [淘宝「朝夕素材」店铺](https://weibo.com/6624339726/MdYuUEd1k)（2022.11）：公然贩卖《霞鹜文楷》字体。
 - [QQ 装扮商店「为则科技」店铺](https://weibo.com/6624339726/Qzspj7pk9)（2026.04）：将《霞鹜致宋》字体更名后付费上架。
 - [QQ 装扮商店「茯苓」店铺](https://www.xiaohongshu.com/discovery/item/6ace5d47000000001b0236d5?app_platform=ios&app_version=9.27.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB2n18-HmIwiKxqZJqK89N4tksIPFToDVFFdzrbqz9nGY=&author_share=1&xhsshare=CopyLink&shareRedId=ODo5NzNKSEA2NzUyOTgwNjc1OTo5SzlL&apptime=1795486813&share_id=61f502035dfe4e24848b0ef5e4dc963e)（2026.09）：付费上架包括《霞鹜文楷》在内的多款开源字体单品。
-- [闲鱼鱼小铺「有为青年」](https://www.goofish.com/item?id=1094285704367&spm=widle.12011849.copy.detail&ut_sk=1.YaSS6NzzVdYDAEPaa0l0xG8M_12431167_1795487113899.copy.detail.1094285704367.3408546934)（2026.11）：贩售「霞鹜开源字体」合集，包含 OFL 和 IPA 字体。
-
+#### 合集贩售
 > [!NOTE]
 > **针对售卖 OFL 字体合集行为的补充说明（2026 年 11 月）**
 >
-> - 贩售多款 OFL 字体组成的合集，可适用「聚合（aggregate）豁免」。OFL 作为通过 OSI 认证的许可证，必须允许这类行为，否则将违反 [《OSI 开源定义》](https://open-source.org.cn/osd) 第一条「自由再分发（Free Redistribution）」（可参考 [OFL 官方 FAQ 第 1.5 条](https://openfontlicense.org/documents/OFL-FAQ.txt)及 [OSI 邮件列表中的相关确认](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2008-November/000396.html)）。因此，将多款 OFL 字体（包括下表列出的所有 OFL 字体）打包贩售的行为，在满足 OFL 所规定的其他条款的前提下，属于协议层面的合规聚合分发，不构成违约或对本人著作权的侵害。
+> - 贩售多款 OFL 字体组成的合集，可适用「聚合（aggregate）豁免」。OFL 作为通过 OSI 认证的许可证，必须允许这类行为，否则将违反 [《OSI 开源定义》](https://open-source.org.cn/osd) 第一条「自由再分发（Free Redistribution）」（可参考 [OFL 官方 FAQ 第 1.5 条](https://openfontlicense.org/documents/OFL-FAQ.txt)及 [OSI 邮件列表中的相关确认](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2008-November/000396.html)）。因此，将多款 OFL 字体打包贩售的行为，在满足 OFL 所规定的其他条款的前提下，属于协议层面的合规聚合分发，不构成违约或对本人著作权的侵害。
 > - 但需注意：OFL 合集中混有 IPA 字体时，可能违反 IPA 相关条款（它要求衍生字体再分发所收取的费用不得超过邮费、存储介质成本和手续费的总和，比 OFL 更加严格）；包含非开源字体时，可能违反其 EULA，甚至构成侵权。
 > - 如您遇到此类店铺贩售此类字体合集，**购买前请知悉：您支付的款项不会流向作者，您也无法获得任何更新或支持**。
+
+- [闲鱼鱼小铺「有为青年」](https://www.goofish.com/item?id=1094285704367&spm=widle.12011849.copy.detail&ut_sk=1.YaSS6NzzVdYDAEPaa0l0xG8M_12431167_1795487113899.copy.detail.1094285704367.3408546934)（2026.11）：贩售「霞鹜开源字体」合集，包含 OFL 和 IPA 字体。其中 OFL 部分若满足 OFL 规定的其他条款，则属于聚合分发，但混入 IPA 字体可能违反 IPA 条款。
