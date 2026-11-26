@@ -37,7 +37,7 @@
 > [!NOTE]
 > **针对售卖 OFL 字体合集行为的补充说明（2026 年 11 月）**
 >
-> - 贩售多款 OFL 字体组成的合集，可适用「聚合（aggregate）豁免」。OFL 作为通过 OSI 认证的许可证，必须允许这类行为，否则将违反[《OSI 开源定义》](https://open-source.org.cn/osd)第一条「自由再分发（Free Redistribution）」（可参考 [OFL 官方 FAQ 第 1.5 条](https://openfontlicense.org/documents/OFL-FAQ.txt)及 [OSI 邮件列表中的相关确认](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2008-November/000396.html)）。因此，将多款 OFL 字体打包贩售的行为，在满足 OFL 所规定的其他条款（如完整保留各字体的 OFL.txt）的前提下，属于协议层面的合规聚合分发，不构成违约或对本人著作权的侵害。
-> - 但需注意：OFL 合集中混有 IPA 字体时，可能违反 IPA 相关条款（它要求衍生字体再分发所收取的费用不得超过邮费、存储介质成本和手续费的总和，比 OFL 更加严格）；包含非开源字体时，可能违反其 EULA，甚至构成侵权。
+> - 贩售多款 OFL 字体组成的合集，可适用「聚合（aggregate）豁免」。OFL 作为通过 OSI 认证的许可证，必须允许这类行为，否则将违反[《OSI 开源定义》](https://open-source.org.cn/osd)第一条「自由再分发（Free Redistribution）」（可参考 [OFL 官方 FAQ 第 1.5 条](https://openfontlicense.org/documents/OFL-FAQ.txt)及 [OSI 邮件列表中的相关确认](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2008-November/000396.html)）。因此，将多款 OFL 字体打包贩售的行为，在满足 OFL 所规定的其他条款（如完整保留各字体的 OFL.txt）的前提下，属于协议层面的合规聚合分发，不属于违约或对本人著作权的侵害。
+> - 但需注意：OFL 合集中混有 IPA 字体时，可能违反 IPA 相关条款（IPA Font License 1.0 对衍生字体再分发的收费设有限制，费用上限与邮费、存储介质成本和手续费挂钩，且不同语言版本/解释下适用范围存在差异）；包含非开源字体时，可能违反其 EULA，甚至构成侵权。
 > - 如您遇到某些店铺贩售此类字体合集，**购买前请知悉：您支付的款项不会流向作者，您也无法获得任何更新或支持**。
 - [闲鱼鱼小铺「有为青年」](https://www.goofish.com/item?id=1094285704367&spm=widle.12011849.copy.detail&ut_sk=1.YaSS6NzzVdYDAEPaa0l0xG8M_12431167_1795487113899.copy.detail.1094285704367.3408546934)（2026.11）：贩售「霞鹜开源字体」合集，包含 OFL 和 IPA 字体。其中 OFL 部分若满足 OFL 规定的其他条款，则属于聚合分发，但混入 IPA 字体可能违反 IPA 条款。
